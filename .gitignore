@@ -1,0 +1,8 @@
+# Prebuilt binary -- the Docker image builds/pulls its own, this is just
+# the local extracted release artifact.
+/radio
+
+# 918MB of GTASA audio + local transcode cache. Not needed by this
+# station-controller image (see .dockerignore) and doesn't belong in git.
+/data/audio/
+/data/transcode-cache/
