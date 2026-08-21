@@ -16,12 +16,19 @@ const SLUGS = [
   'wctr',
 ];
 
+// Each slug gets two streams: the normal one, and a "-music" one that's
+// just back-to-back songs (see station.lua's music_only handling) -- so
+// 22 processes total. Both need to be in the JWT's authorized slug list
+// (see station.yaml's auth comment) or the "-music" half will sit in a
+// registration-error restart loop.
+const ALL_SLUGS = SLUGS.flatMap((slug) => [slug, `${slug}-music`]);
+
 // One `radio station` process per slug -- station.lua serves exactly one
-// station per process, so running all eleven means running eleven
-// processes (see docs/content/cli/station.md "One process, one station").
-// PM2 gives each its own crash isolation and restart policy.
+// station per process, so running all of them means running all of them
+// as separate processes (see docs/content/cli/station.md "One process,
+// one station"). PM2 gives each its own crash isolation and restart policy.
 module.exports = {
-  apps: SLUGS.map((slug) => ({
+  apps: ALL_SLUGS.map((slug) => ({
     name: slug,
     script: '/usr/local/bin/radio',
     interpreter: 'none',

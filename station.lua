@@ -8,6 +8,11 @@
 --   radio-los-santos, playback-fm, bounce-fm, sf-ur, radio-x, csr, k-dst,
 --   k-jah-west, k-rose, master-sounds, wctr
 --
+-- Append "-music" to any of those (e.g. radio-los-santos-music) to
+-- register a second stream for the same station that plays nothing but
+-- back-to-back songs -- no intros/outros, idents, adverts, callers, or DJ
+-- chatter.
+--
 -- Playback follows the original station format: intro -> song -> outro,
 -- then either an advert or a station ident, then maybe a caller or DJ
 -- chatter -- reconstructed from https://github.com/tmfksoft/gta-radio's
@@ -37,16 +42,26 @@ local STATIONS = data.stations
 local ADVERTS = data.adverts
 
 local station_key = radio.args[1] or "radio-los-santos"
-local station = STATIONS[station_key]
+
+-- A "-music" suffix requests a music-only stream for the same underlying
+-- station -- strip it to find the station data, but keep the full,
+-- suffixed key as the registered slug.
+local music_only_base = station_key:match("^(.*)%-music$")
+local music_only = music_only_base ~= nil
+local station = STATIONS[music_only and music_only_base or station_key]
 if not station then
   local keys = {}
-  for k in pairs(STATIONS) do keys[#keys + 1] = k end
+  for k in pairs(STATIONS) do
+    keys[#keys + 1] = k
+    keys[#keys + 1] = k .. "-music"
+  end
   table.sort(keys)
   error(string.format("unknown station '%s' -- valid slugs: %s", station_key, table.concat(keys, ", ")))
 end
 
-local info = radio.register(station_key, station.name, station.genre, { low_queue_threshold = 3 })
-print(string.format("registered '%s' -> %s (%s, DJ %s)", info.slug, info.stream_url, station.name, station.dj_name))
+local display_name = music_only and (station.name .. " (Music Only)") or station.name
+local info = radio.register(station_key, display_name, station.genre, { low_queue_threshold = 3 })
+print(string.format("registered '%s' -> %s (%s, DJ %s)", info.slug, info.stream_url, display_name, station.dj_name))
 
 math.randomseed(os.time())
 
@@ -60,8 +75,15 @@ end
 
 -- Mirrors gta-radio's original playback cycle: intro -> song -> outro, then
 -- either an advert or a station ident, then maybe a caller or DJ chatter.
+-- The "-music" variant (see music_only above) skips straight to just the
+-- song itself, forever.
 local function queue_song_cycle()
   local song = pick(station.songs)
+
+  if music_only then
+    radio.queue({ location = track(song.middle), title = song.name, artist = song.artist })
+    return
+  end
 
   if #song.intros > 0 then
     radio.queue(track(pick(song.intros)))

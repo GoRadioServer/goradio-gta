@@ -9,12 +9,14 @@ server:
 auth:
   # Signed via `radio tokengen -secret <server.yaml auth.jwt_secret> -ttl 8760h
   # radio-los-santos playback-fm bounce-fm sf-ur radio-x csr k-dst k-jah-west
-  # k-rose master-sounds wctr`.
-  # Authorizes all eleven GTA:SA slugs station.lua knows about and expires in
-  # ~1 year. Left empty here deliberately -- a ~1yr bearer token doesn't
-  # belong in git history or a baked Docker image layer. Supply it via the
-  # GORADIO_JWT env var instead (a k8s Secret), which takes precedence over
-  # this file's value.
+  # k-rose master-sounds wctr radio-los-santos-music playback-fm-music
+  # bounce-fm-music sf-ur-music radio-x-music csr-music k-dst-music
+  # k-jah-west-music k-rose-music master-sounds-music wctr-music`.
+  # Authorizes all eleven GTA:SA slugs station.lua knows about plus their
+  # "-music" (songs-only) counterparts, and expires in ~1 year. Left empty
+  # here deliberately -- a ~1yr bearer token doesn't belong in git history
+  # or a baked Docker image layer. Supply it via the GORADIO_JWT env var
+  # instead (a k8s Secret), which takes precedence over this file's value.
   jwt: ""
 
 station:

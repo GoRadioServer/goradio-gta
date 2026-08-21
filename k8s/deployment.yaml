@@ -1,0 +1,48 @@
+# Deploys the eleven GTA:SA `radio station` controllers (see ../Dockerfile,
+# ../ecosystem.config.js) as one pod. No Service is needed: api.enabled is
+# false in the ConfigMap below, so nothing in the pod listens for inbound
+# traffic -- it only dials out to server.grpc_addr.
+#
+# Apply with the real JWT filled in to k8s/secret.yaml (see
+# secret.example.yaml -- keep the real one out of git), then:
+#   kubectl apply -f k8s/configmap.yaml -f k8s/secret.yaml -f k8s/deployment.yaml
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: goradio-gtasa-stations
+  labels:
+    app: goradio-gtasa-stations
+spec:
+  # Each of the eleven stations registers itself once on boot; running more
+  # than one replica means running all eleven a second time. Station
+  # controllers *can* be scaled (see docs/content/deployment/docker.md),
+  # but nothing here coordinates that -- leave at 1 unless you've built
+  # that coordination yourself.
+  replicas: 1
+  selector:
+    matchLabels: {app: goradio-gtasa-stations}
+  template:
+    metadata:
+      labels: {app: goradio-gtasa-stations}
+    spec:
+      securityContext:
+        runAsUser: 1000
+        runAsGroup: 1000
+      containers:
+        - name: goradio-gtasa-stations
+          image: ghcr.io/tmfksoft/goradio-gta:latest
+          env:
+            - name: GORADIO_JWT
+              valueFrom:
+                secretKeyRef:
+                  name: goradio-gtasa-secrets
+                  key: jwt
+          volumeMounts:
+            - name: station-config
+              mountPath: /app/station.yaml
+              subPath: station.yaml
+              readOnly: true
+      volumes:
+        - name: station-config
+          configMap:
+            name: goradio-gtasa-station-config

@@ -1,0 +1,26 @@
+# Mirrors ../station.yaml -- this is what actually lands at /app/station.yaml
+# in the running pod, overriding whatever's baked into the image. auth.jwt
+# stays empty; the real token comes from goradio-gtasa-secrets (GORADIO_JWT)
+# instead, which the app prefers over this file's value.
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: goradio-gtasa-station-config
+data:
+  station.yaml: |
+    server:
+      grpc_addr: "https://radio-rpc.tbt.services"
+
+    auth:
+      jwt: ""
+
+    station:
+      slug: "radio-los-santos"
+
+    api:
+      enabled: false
+      bind_host: "127.0.0.1:8091"
+      api_key: "CHANGE_ME"
+
+    logging:
+      level: "info"

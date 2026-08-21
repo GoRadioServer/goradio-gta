@@ -6,3 +6,6 @@
 # station-controller image (see .dockerignore) and doesn't belong in git.
 /data/audio/
 /data/transcode-cache/
+
+# Real JWT goes here, not in secret.example.yaml.
+/k8s/secret.yaml
