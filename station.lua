@@ -60,7 +60,8 @@ if not station then
 end
 
 local display_name = music_only and (station.name .. " (Music Only)") or station.name
-local info = radio.register(station_key, display_name, station.genre, { low_queue_threshold = 3 })
+local info = radio.register(station_key, display_name, station.genre,
+  { low_queue_threshold = 3, logo_url = station.logo_url })
 print(string.format("registered '%s' -> %s (%s, DJ %s)", info.slug, info.stream_url, display_name, station.dj_name))
 
 math.randomseed(os.time())

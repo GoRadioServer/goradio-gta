@@ -269,7 +269,8 @@
         "(DJ) 'The rest of the world can follow'.ogg",
         "(DJ) 'We play the real shit'.ogg",
         "(DJ) 'Your man Julio G'.ogg"
-      ]
+      ],
+      "logo_url": "https://gta-tiles.upl.im/radio/logo/SA/RadioLosSantos-GTASA-Logo.png"
     },
     "playback-fm": {
       "name": "Playback FM",
@@ -493,7 +494,8 @@
         "(DJ) 'Ugly like yo momma'.ogg",
         "(DJ) 'West Coast radio suckers'.ogg",
         "(DJ) 'You don't last a minute'.ogg"
-      ]
+      ],
+      "logo_url": "https://gta-tiles.upl.im/radio/logo/SA/PlaybackFM-GTASA-Logo.svg"
     },
     "bounce-fm": {
       "name": "Bounce FM",
@@ -803,7 +805,8 @@
         "(DJ) 'You know you want it'.ogg",
         "(DJ) 'You lost the funk'.ogg",
         "(DJ) Blunted.ogg"
-      ]
+      ],
+      "logo_url": "https://gta-tiles.upl.im/radio/logo/SA/BounceFM-GTASA-Logo.png"
     },
     "sf-ur": {
       "name": "SF-UR",
@@ -1045,7 +1048,8 @@
         "(DJ) 'The computers have taken over'.ogg",
         "(DJ) 'We are like dolphins clicking'.ogg",
         "(DJ) 'Would you like a pillow'.ogg"
-      ]
+      ],
+      "logo_url": "https://gta-tiles.upl.im/radio/logo/SA/SFUR-GTASA-Logo.png"
     },
     "radio-x": {
       "name": "Radio X",
@@ -1307,7 +1311,8 @@
         "(DJ) 'Sage'.ogg",
         "(DJ) 'That bitch at the record store'.ogg",
         "(DJ) 'Yes, that is my real name'.ogg"
-      ]
+      ],
+      "logo_url": "https://gta-tiles.upl.im/radio/logo/SA/RadioX-GTASA-Logo.png"
     },
     "csr": {
       "name": "CSR 103.9",
@@ -1539,7 +1544,8 @@
         "(DJ) Buying a cane.ogg",
         "(DJ) Contemporary Soul Radio.ogg",
         "(DJ) Momentum.ogg"
-      ]
+      ],
+      "logo_url": "https://gta-tiles.upl.im/radio/logo/SA/CSR1039-GTASA-Logo.png"
     },
     "k-dst": {
       "name": "K-DST",
@@ -1812,7 +1818,8 @@
         "(DJ) 'Whatever happened to Love Fist'.ogg",
         "(DJ) I live the dream.ogg",
         "(DJ) Two kinds of people.ogg"
-      ]
+      ],
+      "logo_url": "https://gta-tiles.upl.im/radio/logo/SA/K-DST_Icon.png"
     },
     "k-jah-west": {
       "name": "K-JAH West",
@@ -2094,7 +2101,8 @@
         "(DJ) 'Where is the love gone'.ogg",
         "(DJ) 'Yeah, this is K-JAH West'.ogg",
         "(DJ) The British.ogg"
-      ]
+      ],
+      "logo_url": "https://gta-tiles.upl.im/radio/logo/SA/KJAHWest-GTASA-Logo.png"
     },
     "k-rose": {
       "name": "K-Rose",
@@ -2365,7 +2373,8 @@
         "(DJ) Darwinism.ogg",
         "(DJ) Latte.ogg",
         "(DJ) Legs akimbo.ogg"
-      ]
+      ],
+      "logo_url": "https://gta-tiles.upl.im/radio/logo/SA/K-Rose-GTASA-Logo.svg"
     },
     "master-sounds": {
       "name": "Master Sounds 98.3",
@@ -2674,7 +2683,8 @@
         "(DJ) 'To Heaven like nineteen times'.ogg",
         "(DJ) 'Too much soul'.ogg",
         "(DJ) 'You're tuned into who'.ogg"
-      ]
+      ],
+      "logo_url": "https://gta-tiles.upl.im/radio/logo/SA/MasterSounds983-GTASA-Logo.png"
     },
     "wctr": {
       "name": "West Coast Talk Radio",
@@ -3025,7 +3035,8 @@
         "(ID) 'Talk is cheap'.ogg"
       ],
       "callers": [],
-      "chatter": []
+      "chatter": [],
+      "logo_url": "https://gta-tiles.upl.im/radio/logo/SA/WCTR-GTASA-Logo.png"
     }
   },
   "adverts": [
