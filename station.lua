@@ -151,15 +151,16 @@ end)
 -- doesn't just risk one thin refill: it leaves the queue permanently
 -- stuck at or below the threshold, so the edge never re-arms and
 -- on_queue_low silently stops firing for the rest of the process.
--- refill_queue loops until the queue is actually healthy again, and is
--- used for the very first fill too -- otherwise priming with a couple of
--- fixed calls has the exact same problem before the station has even
--- started, since a "-music" station never gets a chance to cross back
--- above the threshold from a starting point at or below it. The
--- iteration cap is just a safety net against spinning forever if
--- everything this station tries to queue fails outright (e.g. a broken
--- audio_root).
+-- refill_queue loops until the queue is actually healthy again, checking
+-- first so it's a no-op when called from on_register (below) and the
+-- queue turns out to still be fine -- e.g. a brief network blip that
+-- didn't actually restart the audio server. The iteration cap is just a
+-- safety net against spinning forever if everything this station tries
+-- to queue fails outright (e.g. a broken audio_root).
 local function refill_queue()
+  if radio.status().queue_length > LOW_QUEUE_THRESHOLD then
+    return
+  end
   for _ = 1, 20 do
     queue_song_cycle()
     if radio.status().queue_length > LOW_QUEUE_THRESHOLD then
@@ -169,5 +170,15 @@ local function refill_queue()
 end
 
 radio.on_queue_low(refill_queue)
+
+-- If the audio server itself restarted while we were disconnected, its
+-- registry -- and this station's entire queue -- comes back empty when
+-- the engine auto-reconnects and re-registers us, and on_queue_low alone
+-- can't rescue that (its edge trigger never fires for a queue that's
+-- been empty since the moment it was recreated). Re-priming here as well
+-- as at the bottom of the script covers both cases: this fires the queue
+-- back up after a reconnect-driven restart, that fires it once at the
+-- very first startup.
+radio.on_register(refill_queue)
 
 refill_queue()
