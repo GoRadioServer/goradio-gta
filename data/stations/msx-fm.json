@@ -5,7 +5,7 @@
   "dj_name": "MC Codebreaker",
   "audio_dir": "MSX FM",
   "play_ads": false,
-  "logo_url": "",
+  "logo_url": "https://gta-tiles.upl.im/radio/logo/III/MSXFM-GTAIII-Logo.svg",
   "type": "regular",
   "songs": [
     {

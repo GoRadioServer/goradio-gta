@@ -7,5 +7,11 @@
 /data/audio/
 /data/transcode-cache/
 
+# Local reference copies used to pick correct logo filenames for the CDN
+# (gta-tiles.upl.im) URLs baked into each station.json's logo_url -- never
+# read by station.lua itself (which only ever uses the URL string), so
+# these image files don't need to ship in the image or the repo.
+/data/logos/
+
 # Real JWT goes here, not in secret.example.yaml.
 /k8s/secret.yaml
