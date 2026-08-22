@@ -68,7 +68,17 @@ end
 
 local station = load_json("data/stations/" .. station_file)
 
-local LOW_QUEUE_THRESHOLD = 3
+-- A GTA III/Vice City station has exactly one "song" -- the whole
+-- station is one pre-mixed file, tens of minutes long. pick() on a
+-- 1-element array always returns that same song, so a threshold of 3
+-- would make refill_queue below re-queue *the same giant file* 3-4 times
+-- over just to clear the threshold, every single time the queue drains.
+-- With every station starting at once, that's dozens of simultaneous
+-- transcode jobs for huge files -- exactly what overloaded the audio
+-- server in production. A single song has no variety to buffer ahead
+-- for anyway, so 0 is correct here: queue exactly one lookahead copy,
+-- never a redundant pile of the same file.
+local LOW_QUEUE_THRESHOLD = #station.songs > 1 and 3 or 0
 
 local info = radio.register(station_key, station.name, station.genre, {
   low_queue_threshold = LOW_QUEUE_THRESHOLD,
