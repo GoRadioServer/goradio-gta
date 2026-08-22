@@ -7,11 +7,13 @@ server:
   grpc_addr: "https://radio-rpc.tbt.services"
 
 auth:
-  # Signed via `radio tokengen -secret <server.yaml auth.jwt_secret> -ttl 8760h '*'`
-  # -- every slug in data/stations/index.json (all the GTA:SA stations
-  # plus their "-music" counterparts, and one each for GTA III/Vice City)
-  # needs to be authorized, and that list only grows, so a wildcard is
-  # far more maintainable than listing each one out. Expires in ~1 year.
+  # Mint one with `GORADIO_JWT_SECRET=<server's auth.jwt_secret>
+  # ./scripts/mint-token.sh` -- with no slugs given it authorizes every
+  # station ("*"), which is what you want: every slug in
+  # data/stations/index.json (all the GTA:SA stations plus their
+  # "-music" counterparts, and one each for GTA III/Vice City) needs to
+  # be authorized, and that list only grows, so a wildcard is far more
+  # maintainable than listing each one out. Defaults to a ~1 year TTL.
   # Left empty here deliberately -- a ~1yr bearer token doesn't belong in
   # git history or a baked Docker image layer. Supply it via the
   # GORADIO_JWT env var instead (a k8s Secret), which takes precedence
