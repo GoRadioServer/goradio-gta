@@ -11,7 +11,7 @@
 # ConfigMap mounted over /app/station.yaml (and auth.jwt supplied via the
 # GORADIO_JWT env var from a Secret, which takes precedence over the file)
 # rather than relying on what's baked into the image.
-FROM ghcr.io/tmfksoft/goradio:v0.9.0
+FROM ghcr.io/tmfksoft/goradio:v0.10.0
 
 USER root
 RUN apk add --no-cache nodejs npm \
