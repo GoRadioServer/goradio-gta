@@ -1,0 +1,224 @@
+{
+  "name": "West Coast Talk Radio (Music Only)",
+  "genre": "Talk Radio",
+  "dj_name": "Various",
+  "audio_dir": "WCTR",
+  "play_ads": false,
+  "logo_url": "https://gta-tiles.upl.im/radio/logo/SA/WCTR-GTASA-Logo.png",
+  "type": "music-only",
+  "songs": [
+    {
+      "name": "Area 53 - Episode #1",
+      "artist": "Marvin Trill",
+      "intros": [],
+      "middle": "Area 53 - Episode #1 (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Area 53 - Episode #2",
+      "artist": "Marvin Trill",
+      "intros": [],
+      "middle": "Area 53 - Episode #2 (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Area 53 - Episode #3",
+      "artist": "Marvin Trill",
+      "intros": [],
+      "middle": "Area 53 - Episode #3 (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Entertaining America - Episode #1",
+      "artist": "Billy Dexter",
+      "intros": [],
+      "middle": "Entertaining America - Episode #1 (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Entertaining America - Episode #2",
+      "artist": "Lazlow Jones",
+      "intros": [],
+      "middle": "Entertaining America - Episode #2 (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Entertaining America - Episode #3",
+      "artist": "Lazlow Jones",
+      "intros": [],
+      "middle": "Entertaining America - Episode #3 (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Entertaining America - Teaser",
+      "artist": "Lazlow Jones",
+      "intros": [],
+      "middle": "Entertaining America - Teaser (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Gardening with Maurice - Episode #1",
+      "artist": "Maurice",
+      "intros": [],
+      "middle": "Gardening with Maurice - Episode #1 (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Gardening with Maurice - Episode #2",
+      "artist": "Maurice",
+      "intros": [],
+      "middle": "Gardening with Maurice - Episode #2 (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Gardening with Maurice - Teaser #1",
+      "artist": "Maurice",
+      "intros": [],
+      "middle": "Gardening with Maurice - Teaser #1 (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Gardening with Maurice - Teaser #2",
+      "artist": "Maurice",
+      "intros": [],
+      "middle": "Gardening with Maurice - Teaser #2 (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "I Say/You Say - Episode #1",
+      "artist": "Peyton and Mary Phillips",
+      "intros": [],
+      "middle": "I Say, You Say - Episode #1 (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "I Say/You Say - Episode #2",
+      "artist": "Peyton and Mary Phillips",
+      "intros": [],
+      "middle": "I Say, You Say - Episode #2 (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Lonely Hearts - Episode #1",
+      "artist": "Christy MacIntyre",
+      "intros": [],
+      "middle": "Lonely Hearts - Episode #1 (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Lonely Hearts - Episode #2",
+      "artist": "Christy MacIntyre",
+      "intros": [],
+      "middle": "Lonely Hearts - Episode #2 (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Lonely Hearts - Episode #3",
+      "artist": "Christy MacIntyre & Fernando Martinez",
+      "intros": [],
+      "middle": "Lonely Hearts - Episode #3 (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "WCTR News - Episode #1",
+      "artist": "Lianne Forget & Richard Burns",
+      "intros": [],
+      "middle": "News - Episode #01 (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "WCTR News - Episode #2",
+      "artist": "Lianne Forget & Richard Burns",
+      "intros": [],
+      "middle": "News - Episode #02 (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "WCTR News - Episode #3",
+      "artist": "Lianne Forget & Richard Burns",
+      "intros": [],
+      "middle": "News - Episode #03 (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "WCTR News - Episode #4",
+      "artist": "Lianne Forget & Richard Burns",
+      "intros": [],
+      "middle": "News - Episode #04 (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "WCTR News - Episode #5",
+      "artist": "Lianne Forget & Richard Burns",
+      "intros": [],
+      "middle": "News - Episode #05 (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "WCTR News - Episode #6",
+      "artist": "Lianne Forget & Richard Burns",
+      "intros": [],
+      "middle": "News - Episode #06 (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "WCTR News - Episode #7",
+      "artist": "Lianne Forget & Richard Burns",
+      "intros": [],
+      "middle": "News - Episode #07 (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "WCTR News - Episode #8",
+      "artist": "Lianne Forget & Richard Burns",
+      "intros": [],
+      "middle": "News - Episode #08 (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "WCTR News - Episode #9",
+      "artist": "Lianne Forget & Richard Burns",
+      "intros": [],
+      "middle": "News - Episode #09 (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "WCTR News - Episode #11",
+      "artist": "Lianne Forget & Richard Burns",
+      "intros": [],
+      "middle": "News - Episode #10 (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "The Tight End Zone - Episode #1",
+      "artist": "Derrick Thackery",
+      "intros": [],
+      "middle": "The Tight End Zone - Episode #1 (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "The Tight End Zone - Episode #2",
+      "artist": "Derrick Thackery",
+      "intros": [],
+      "middle": "The Tight End Zone - Episode #2 (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "The Wild Traveler - Episode #1",
+      "artist": "James Pedeaston",
+      "intros": [],
+      "middle": "The Wild Traveler - Episode #1 (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "The Wild Traveler - Episode #2",
+      "artist": "James Pedeaston",
+      "intros": [],
+      "middle": "The Wild Traveler - Episode #2 (Mid).ogg",
+      "outros": []
+    }
+  ],
+  "idents": [],
+  "callers": [],
+  "chatter": []
+}

@@ -1,7 +1,7 @@
-# Only station.lua, station.yaml, ecosystem.config.js, and
-# data/gtasa-stations.json are actually COPYed into the image -- the rest
-# of this directory (918MB of audio, the local `radio` binary already in
-# the base image, transcode cache, lua-types) would otherwise bloat every
+# Only station.lua, station.yaml, ecosystem.config.js, data/adverts.json,
+# and data/stations/ are actually COPYed into the image -- the rest of
+# this directory (918MB of audio, the local `radio` binary already in the
+# base image, transcode cache, lua-types) would otherwise bloat every
 # build context for nothing.
 data/audio/
 data/transcode-cache/

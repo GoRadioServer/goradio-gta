@@ -1,0 +1,273 @@
+{
+  "name": "K-Rose",
+  "genre": "Classic Country",
+  "dj_name": "Mary-Beth Maybell",
+  "audio_dir": "KROSE",
+  "play_ads": true,
+  "logo_url": "https://gta-tiles.upl.im/radio/logo/SA/K-Rose-GTASA-Logo.svg",
+  "type": "regular",
+  "songs": [
+    {
+      "name": "All My Exes Live in Texas",
+      "artist": "George Strait",
+      "intros": [
+        "All My Exes Live in Texas (Intro DJ #1).ogg",
+        "All My Exes Live in Texas (Intro DJ #2).ogg",
+        "All My Exes Live in Texas (Intro).ogg"
+      ],
+      "middle": "All My Exes Live in Texas (Mid).ogg",
+      "outros": [
+        "All My Exes Live in Texas (Outro DJ #1).ogg",
+        "All My Exes Live in Texas (Outro DJ #2).ogg",
+        "All My Exes Live in Texas (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Always Wanting You",
+      "artist": "Merle Haggard",
+      "intros": [
+        "Always Wanting You (Intro DJ #1).ogg",
+        "Always Wanting You (Intro DJ #2).ogg",
+        "Always Wanting You (Intro).ogg"
+      ],
+      "middle": "Always Wanting You (Mid).ogg",
+      "outros": [
+        "Always Wanting You (Outro DJ #1).ogg",
+        "Always Wanting You (Outro DJ #2).ogg",
+        "Always Wanting You (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Amos Moses",
+      "artist": "Jerry Reed",
+      "intros": [
+        "Amos Moses (Intro DJ #1).ogg",
+        "Amos Moses (Intro DJ #2).ogg",
+        "Amos Moses (Intro).ogg"
+      ],
+      "middle": "Amos Moses (Mid).ogg",
+      "outros": [
+        "Amos Moses (Outro DJ #1).ogg",
+        "Amos Moses (Outro DJ #2).ogg",
+        "Amos Moses (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Bed of Roses",
+      "artist": "The Statler Brothers",
+      "intros": [
+        "Bed of Roses (Intro DJ #1).ogg",
+        "Bed of Roses (Intro DJ #2).ogg",
+        "Bed of Roses (Intro).ogg"
+      ],
+      "middle": "Bed of Roses (Mid).ogg",
+      "outros": [
+        "Bed of Roses (Outro DJ #1).ogg",
+        "Bed of Roses (Outro DJ #2).ogg",
+        "Bed of Roses (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Crazy",
+      "artist": "Willie Nelson",
+      "intros": [
+        "Crazy (Intro DJ #1).ogg",
+        "Crazy (Intro DJ #2).ogg",
+        "Crazy (Intro).ogg"
+      ],
+      "middle": "Crazy (Mid).ogg",
+      "outros": [
+        "Crazy (Outro DJ #1).ogg",
+        "Crazy (Outro DJ #2).ogg",
+        "Crazy (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Hey Good Lookin'",
+      "artist": "Hank Williams",
+      "intros": [
+        "Hey Good Lookin' (Intro DJ #1).ogg",
+        "Hey Good Lookin' (Intro DJ #2).ogg",
+        "Hey Good Lookin' (Intro).ogg"
+      ],
+      "middle": "Hey Good Lookin' (Mid).ogg",
+      "outros": [
+        "Hey Good Lookin' (Outro DJ #1).ogg",
+        "Hey Good Lookin' (Outro DJ #2).ogg",
+        "Hey Good Lookin' (Outro).ogg"
+      ]
+    },
+    {
+      "name": "I Love a Rainy Night",
+      "artist": "Eddie Rabbitt",
+      "intros": [
+        "I Love a Rainy Night (Intro DJ #1).ogg",
+        "I Love a Rainy Night (Intro DJ #2).ogg",
+        "I Love a Rainy Night (Intro).ogg"
+      ],
+      "middle": "I Love a Rainy Night (Mid).ogg",
+      "outros": [
+        "I Love a Rainy Night (Outro DJ #1).ogg",
+        "I Love a Rainy Night (Outro DJ #2).ogg",
+        "I Love a Rainy Night (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Louisiana Woman, Mississippi Man",
+      "artist": "Conway Twitty & Loretta Lynn",
+      "intros": [
+        "Louisiana woman, Mississippi man (Intro DJ #1).ogg",
+        "Louisiana woman, Mississippi man (Intro DJ #2).ogg",
+        "Louisiana woman, Mississippi man (Intro).ogg"
+      ],
+      "middle": "Louisiana woman, Mississippi man (Mid).ogg",
+      "outros": [
+        "Louisiana woman, Mississippi man (Outro DJ #1).ogg",
+        "Louisiana woman, Mississippi man (Outro DJ #2).ogg",
+        "Louisiana woman, Mississippi man (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Make The World Go Away",
+      "artist": "Mickey Gilley",
+      "intros": [
+        "Make the World Go Away (Intro DJ #1).ogg",
+        "Make the World Go Away (Intro DJ #2).ogg",
+        "Make the World Go Away (Intro).ogg"
+      ],
+      "middle": "Make the World Go Away (Mid).ogg",
+      "outros": [
+        "Make the World Go Away (Outro DJ #1).ogg",
+        "Make the World Go Away (Outro DJ #2).ogg",
+        "Make the World Go Away (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Mammas Don't Let Your Babies Grow Up to Be Cowboys",
+      "artist": "Ed Bruce",
+      "intros": [
+        "Mammas Don't Let Your Babies Grow Up to be Cowboys (Intro DJ #1).ogg",
+        "Mammas Don't Let Your Babies Grow Up to be Cowboys (Intro DJ #2).ogg",
+        "Mammas Don't Let Your Babies Grow Up to be Cowboys (Intro).ogg"
+      ],
+      "middle": "Mammas Don't Let Your Babies Grow Up to be Cowboys (Mid).ogg",
+      "outros": [
+        "Mammas Don't Let Your Babies Grow Up to be Cowboys (Outro DJ #1).ogg",
+        "Mammas Don't Let Your Babies Grow Up to be Cowboys (Outro DJ #2).ogg",
+        "Mammas Don't Let Your Babies Grow Up to be Cowboys (Outro).ogg"
+      ]
+    },
+    {
+      "name": "New York City",
+      "artist": "Statler Brothers",
+      "intros": [
+        "New York City (Intro DJ #1).ogg",
+        "New York City (Intro DJ #2).ogg",
+        "New York City (Intro).ogg"
+      ],
+      "middle": "New York City (Mid).ogg",
+      "outros": [
+        "New York City (Outro DJ #1).ogg",
+        "New York City (Outro DJ #2).ogg",
+        "New York City (Outro).ogg"
+      ]
+    },
+    {
+      "name": "One Step Forward",
+      "artist": "The Desert Rose Band",
+      "intros": [
+        "One Step Forward (Intro DJ #1).ogg",
+        "One Step Forward (Intro DJ #2).ogg",
+        "One Step Forward (Intro).ogg"
+      ],
+      "middle": "One Step Forward (Mid).ogg",
+      "outros": [
+        "One Step Forward (Outro DJ #1).ogg",
+        "One Step Forward (Outro DJ #2).ogg",
+        "One Step Forward (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Queen Of Hearts",
+      "artist": "Juice Newton",
+      "intros": [
+        "Queen of Hearts (Intro DJ #1).ogg",
+        "Queen of Hearts (Intro DJ #2).ogg",
+        "Queen of Hearts (Intro).ogg"
+      ],
+      "middle": "Queen of Hearts (Mid).ogg",
+      "outros": [
+        "Queen of Hearts (Outro DJ #1).ogg",
+        "Queen of Hearts (Outro DJ #2).ogg",
+        "Queen of Hearts (Outro).ogg"
+      ]
+    },
+    {
+      "name": "The Letter That Johnny Walker Read",
+      "artist": "Asleep At The Wheel",
+      "intros": [
+        "The Letter that Johnny Walker Read (Intro DJ #1).ogg",
+        "The Letter that Johnny Walker Read (Intro DJ #2).ogg",
+        "The Letter that Johnny Walker Read (Intro).ogg"
+      ],
+      "middle": "The Letter that Johnny Walker Read (Mid).ogg",
+      "outros": [
+        "The Letter that Johnny Walker Read (Outro DJ #1).ogg",
+        "The Letter that Johnny Walker Read (Outro DJ #2).ogg",
+        "The Letter that Johnny Walker Read (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Three Cigarettes In The Ashtray",
+      "artist": "Patsy Cline",
+      "intros": [
+        "Three Cigarettes in the Ashtray (Intro DJ #1).ogg",
+        "Three Cigarettes in the Ashtray (Intro DJ #2).ogg",
+        "Three Cigarettes in the Ashtray (Intro).ogg"
+      ],
+      "middle": "Three Cigarettes in the Ashtray (Mid).ogg",
+      "outros": [
+        "Three Cigarettes in the Ashtray (Outro DJ #1).ogg",
+        "Three Cigarettes in the Ashtray (Outro DJ #2).ogg",
+        "Three Cigarettes in the Ashtray (Outro).ogg"
+      ]
+    }
+  ],
+  "idents": [
+    "(ID) 'All America loves a cowboy'.ogg",
+    "(ID) 'Barefoot and pregnant again'.ogg",
+    "(ID) 'From cow poking to cow-tipping'.ogg",
+    "(ID) 'Invented the electric guitar'.ogg",
+    "(ID) 'Iron horse with a drinking problem'.ogg",
+    "(ID) 'It takes a cowboy to know when to shoot'.ogg",
+    "(ID) 'When love shoots you in the back'.ogg",
+    "(ID) 'Whistle on a lonely night'.ogg",
+    "(ID) Farm Animals.ogg"
+  ],
+  "callers": [
+    "(Caller) 'Being faithful and cheating at the same time'.ogg",
+    "(Caller) 'Wicked, evil, wealthy woman'.ogg"
+  ],
+  "chatter": [
+    "(DJ) 'Downstairs harmonica talents'.ogg",
+    "(DJ) 'Euthanasia is a beautiful thing'.ogg",
+    "(DJ) 'Harmonica down South again'.ogg",
+    "(DJ) 'Harmonica in my pants'.ogg",
+    "(DJ) 'Hurts a little when I try to put it in'.ogg",
+    "(DJ) 'I am shit-faced'.ogg",
+    "(DJ) 'I keep moving on'.ogg",
+    "(DJ) 'I might start to cry'.ogg",
+    "(DJ) 'It ain't easy raising nine kids'.ogg",
+    "(DJ) 'It's like Kant said'.ogg",
+    "(DJ) 'Like the plug, but a musical version'.ogg",
+    "(DJ) 'Love everyone like myself'.ogg",
+    "(DJ) 'Make you want to square dance'.ogg",
+    "(DJ) 'On the prairie'.ogg",
+    "(DJ) 'Play a harmonica and sing at the same time'.ogg",
+    "(DJ) 'You know what war I'm talking about'.ogg",
+    "(DJ) Belt buckles.ogg",
+    "(DJ) Darwinism.ogg",
+    "(DJ) Latte.ogg",
+    "(DJ) Legs akimbo.ogg"
+  ]
+}

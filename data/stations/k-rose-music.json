@@ -1,0 +1,119 @@
+{
+  "name": "K-Rose (Music Only)",
+  "genre": "Classic Country",
+  "dj_name": "Mary-Beth Maybell",
+  "audio_dir": "KROSE",
+  "play_ads": false,
+  "logo_url": "https://gta-tiles.upl.im/radio/logo/SA/K-Rose-GTASA-Logo.svg",
+  "type": "music-only",
+  "songs": [
+    {
+      "name": "All My Exes Live in Texas",
+      "artist": "George Strait",
+      "intros": [],
+      "middle": "All My Exes Live in Texas (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Always Wanting You",
+      "artist": "Merle Haggard",
+      "intros": [],
+      "middle": "Always Wanting You (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Amos Moses",
+      "artist": "Jerry Reed",
+      "intros": [],
+      "middle": "Amos Moses (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Bed of Roses",
+      "artist": "The Statler Brothers",
+      "intros": [],
+      "middle": "Bed of Roses (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Crazy",
+      "artist": "Willie Nelson",
+      "intros": [],
+      "middle": "Crazy (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Hey Good Lookin'",
+      "artist": "Hank Williams",
+      "intros": [],
+      "middle": "Hey Good Lookin' (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "I Love a Rainy Night",
+      "artist": "Eddie Rabbitt",
+      "intros": [],
+      "middle": "I Love a Rainy Night (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Louisiana Woman, Mississippi Man",
+      "artist": "Conway Twitty & Loretta Lynn",
+      "intros": [],
+      "middle": "Louisiana woman, Mississippi man (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Make The World Go Away",
+      "artist": "Mickey Gilley",
+      "intros": [],
+      "middle": "Make the World Go Away (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Mammas Don't Let Your Babies Grow Up to Be Cowboys",
+      "artist": "Ed Bruce",
+      "intros": [],
+      "middle": "Mammas Don't Let Your Babies Grow Up to be Cowboys (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "New York City",
+      "artist": "Statler Brothers",
+      "intros": [],
+      "middle": "New York City (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "One Step Forward",
+      "artist": "The Desert Rose Band",
+      "intros": [],
+      "middle": "One Step Forward (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Queen Of Hearts",
+      "artist": "Juice Newton",
+      "intros": [],
+      "middle": "Queen of Hearts (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "The Letter That Johnny Walker Read",
+      "artist": "Asleep At The Wheel",
+      "intros": [],
+      "middle": "The Letter that Johnny Walker Read (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Three Cigarettes In The Ashtray",
+      "artist": "Patsy Cline",
+      "intros": [],
+      "middle": "Three Cigarettes in the Ashtray (Mid).ogg",
+      "outros": []
+    }
+  ],
+  "idents": [],
+  "callers": [],
+  "chatter": []
+}

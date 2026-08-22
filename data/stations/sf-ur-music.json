@@ -1,0 +1,126 @@
+{
+  "name": "SF-UR (Music Only)",
+  "genre": "House; Acid House",
+  "dj_name": "Hans Oberlander",
+  "audio_dir": "SFUR",
+  "play_ads": false,
+  "logo_url": "https://gta-tiles.upl.im/radio/logo/SA/SFUR-GTASA-Logo.png",
+  "type": "music-only",
+  "songs": [
+    {
+      "name": "Break 4 Love",
+      "artist": "Raze",
+      "intros": [],
+      "middle": "Break 4 Love (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Can You Feel It?",
+      "artist": "Mr. Fingers",
+      "intros": [],
+      "middle": "Can You Feel It (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "I Need A Rhythm",
+      "artist": "The 28th Street Crew",
+      "intros": [],
+      "middle": "I Need a Rhythm (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "I'll Be Your Friend (Original DEF Mix)",
+      "artist": "Robert Ownes",
+      "intros": [],
+      "middle": "I'll be Your Friend (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Let The Music Use You",
+      "artist": "Nightwriters",
+      "intros": [],
+      "middle": "Let the Music Use You (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Ma Foom Bey",
+      "artist": "Cultural Vibe",
+      "intros": [],
+      "middle": "Ma Foom Bey (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Make My Body Rock",
+      "artist": "Jomanda",
+      "intros": [],
+      "middle": "Make My Body Rock (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Move Your Body",
+      "artist": "Marshall Jefferson",
+      "intros": [],
+      "middle": "Move Your Body (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Pacific 202",
+      "artist": "808 State",
+      "intros": [],
+      "middle": "Pacific (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Promised Land",
+      "artist": "Joe SMooth feat. Anthony Thomas",
+      "intros": [],
+      "middle": "Promised Land (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Someday",
+      "artist": "CeCe Rogers",
+      "intros": [],
+      "middle": "Someday (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "The Morning After (Sunrise Mix)",
+      "artist": "Fallout",
+      "intros": [],
+      "middle": "The Morning After (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "This Is Acid (A New Dance Craze) (K & T Mix)",
+      "artist": "Maurice",
+      "intros": [],
+      "middle": "This is Acid (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Voodoo Ray",
+      "artist": "A Guy Called Gerald",
+      "intros": [],
+      "middle": "Voodoo Ray (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Weekend",
+      "artist": "The Todd Terry Project",
+      "intros": [],
+      "middle": "Weekend (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Your Love",
+      "artist": "Frankie Knucklesfeat. Jamie Principle",
+      "intros": [],
+      "middle": "Your Love (Mid).ogg",
+      "outros": []
+    }
+  ],
+  "idents": [],
+  "callers": [],
+  "chatter": []
+}

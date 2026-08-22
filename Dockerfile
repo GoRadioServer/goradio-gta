@@ -20,7 +20,8 @@ RUN apk add --no-cache nodejs npm \
 
 WORKDIR /app
 COPY station.lua station.yaml ecosystem.config.js ./
-COPY data/gtasa-stations.json ./data/gtasa-stations.json
+COPY data/adverts.json ./data/adverts.json
+COPY data/stations/ ./data/stations/
 
 RUN chown -R radio:radio /app
 USER radio

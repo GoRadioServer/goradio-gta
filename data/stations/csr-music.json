@@ -1,0 +1,105 @@
+{
+  "name": "CSR 103.9 (Music Only)",
+  "genre": "New Jack Swing; Contemporary Soul; Boy Band; R&B",
+  "dj_name": "Phillip Michaels",
+  "audio_dir": "CSR",
+  "play_ads": false,
+  "logo_url": "https://gta-tiles.upl.im/radio/logo/SA/CSR1039-GTASA-Logo.png",
+  "type": "music-only",
+  "songs": [
+    {
+      "name": "Don't Be Afraid",
+      "artist": "Aaron Hall",
+      "intros": [],
+      "middle": "Don't Be Afraid (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Don't Be Cruel",
+      "artist": "Bobby Brown",
+      "intros": [],
+      "middle": "Don't Be Cruel (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Groove Me",
+      "artist": "Guy",
+      "intros": [],
+      "middle": "Groove Me (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "I Got the Feeling",
+      "artist": "Todday",
+      "intros": [],
+      "middle": "I Got the Feeling (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "I'm So Into You",
+      "artist": "SWV",
+      "intros": [],
+      "middle": "I'm So Into You (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Keep On Movin'",
+      "artist": "Soul II Soul",
+      "intros": [],
+      "middle": "Keep on Movin' (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Motownphilly",
+      "artist": "Boyz II Men",
+      "intros": [],
+      "middle": "Motownphilly (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "My Lovin' (You're Never Gonna Get It)",
+      "artist": "En Vogue",
+      "intros": [],
+      "middle": "My Lovin' (Never Gonna Get It) (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "New Jack Swing",
+      "artist": "Wreckx-n-Effect",
+      "intros": [],
+      "middle": "New Jack Swing (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Poison",
+      "artist": "Bell Bid DeVoe",
+      "intros": [],
+      "middle": "Poison (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Rub You the Right Way",
+      "artist": "Johnny Gill",
+      "intros": [],
+      "middle": "Rub You the Right Way (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Sensitivity",
+      "artist": "Ralph Tresvant",
+      "intros": [],
+      "middle": "Sensitivity (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "So You Like What You See",
+      "artist": "Samuelle",
+      "intros": [],
+      "middle": "So You Like What You See (Mid).ogg",
+      "outros": []
+    }
+  ],
+  "idents": [],
+  "callers": [],
+  "chatter": []
+}

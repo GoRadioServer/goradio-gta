@@ -1,0 +1,284 @@
+{
+  "name": "K-JAH West",
+  "genre": "Reggae, Dub, and Dancehall",
+  "dj_name": "Marshall Peters and Johnny Lawton",
+  "audio_dir": "K-JAH-WEST",
+  "play_ads": true,
+  "logo_url": "https://gta-tiles.upl.im/radio/logo/SA/KJAHWest-GTASA-Logo.png",
+  "type": "regular",
+  "songs": [
+    {
+      "name": "Armagideon Time",
+      "artist": "Willi Williams",
+      "intros": [
+        "Armagideon Time (Intro DJ #1).ogg",
+        "Armagideon Time (Intro DJ #2).ogg",
+        "Armagideon Time (Intro).ogg"
+      ],
+      "middle": "Armagideon Time (Mid).ogg",
+      "outros": [
+        "Armagideon Time (Outro DJ #1).ogg",
+        "Armagideon Time (Outro DJ #2).ogg",
+        "Armagideon Time (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Bam Bam",
+      "artist": "Pliers",
+      "intros": [
+        "Bam Bam (Intro DJ #1).ogg",
+        "Bam Bam (Intro DJ #2).ogg",
+        "Bam Bam (Intro).ogg"
+      ],
+      "middle": "Bam Bam (Mid).ogg",
+      "outros": [
+        "Bam Bam (Outro DJ #1).ogg",
+        "Bam Bam (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Batty Rider",
+      "artist": "Buju Banton",
+      "intros": [
+        "Batty Rider (Intro DJ #1).ogg",
+        "Batty Rider (Intro DJ #2).ogg",
+        "Batty Rider (Intro).ogg"
+      ],
+      "middle": "Batty Rider (Mid).ogg",
+      "outros": [
+        "Batty Rider (Outro DJ #1).ogg",
+        "Batty Rider (Outro DJ #2).ogg",
+        "Batty Rider (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Chase The Devil",
+      "artist": "Max Romeo & The Upsetters",
+      "intros": [
+        "Chase the Devil (Intro DJ #1).ogg",
+        "Chase the Devil (Intro DJ #2).ogg",
+        "Chase the Devil (Intro).ogg"
+      ],
+      "middle": "Chase the Devil (Mid).ogg",
+      "outros": [
+        "Chase the Devil (Outro DJ #1).ogg",
+        "Chase the Devil (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Cokane In My Brain",
+      "artist": "Dillinger",
+      "intros": [
+        "Cocaine in My Brain (Intro DJ #1).ogg",
+        "Cocaine in My Brain (Intro DJ #2).ogg",
+        "Cocaine in My Brain (Mid).ogg"
+      ],
+      "middle": "Cocaine in My Brain (Mid).ogg",
+      "outros": [
+        "Cocaine in My Brain (Outro DJ #1).ogg",
+        "Cocaine in My Brain (Outro DJ #2).ogg",
+        "Cocaine in My Brain (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Don't Let It Go To Your Head",
+      "artist": "Black Harmony",
+      "intros": [
+        "Don't Let it Go to Your Head (Intro DJ #1).ogg",
+        "Don't Let it Go to Your Head (Intro DJ #2).ogg",
+        "Don't Let it Go to Your Head (Intro).ogg"
+      ],
+      "middle": "Don't Let it Go to Your Head (Mid).ogg",
+      "outros": [
+        "Don't Let it Go to Your Head (Outro DJ #1).ogg",
+        "Don't Let it Go to Your Head (Outro DJ #2).ogg",
+        "Don't Let it Go to Your Head (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Drum Pan Sound",
+      "artist": "Reggie Stepper",
+      "intros": [
+        "Drum Pan Sound (Intro DJ #1).ogg",
+        "Drum Pan Sound (Intro DJ #2).ogg",
+        "Drum Pan Sound (Intro).ogg"
+      ],
+      "middle": "Drum Pan Sound (Mid).ogg",
+      "outros": [
+        "Drum Pan Sound (Outro DJ #1).ogg",
+        "Drum Pan Sound (Outro DJ #2).ogg",
+        "Drum Pan Sound (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Funky Kingston",
+      "artist": "Toots & The Maytals",
+      "intros": [
+        "Funky Kingston (Intro DJ #1).ogg",
+        "Funky Kingston (Intro DJ #2).ogg",
+        "Funky Kingston (Intro).ogg"
+      ],
+      "middle": "Funky Kingston (Mid).ogg",
+      "outros": [
+        "Funky Kingston (Outro DJ #1).ogg",
+        "Funky Kingston (Outro DJ #2).ogg",
+        "Funky Kingston (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Great Train Robbery",
+      "artist": "Black Uhuru",
+      "intros": [
+        "Great Train Robbery (Intro DJ #1).ogg",
+        "Great Train Robbery (Intro).ogg"
+      ],
+      "middle": "Great Train Robbery (Mid).ogg",
+      "outros": [
+        "Great Train Robbery (Outro DJ #1).ogg",
+        "Great Train Robbery (Outro DJ #2).ogg",
+        "Great Train Robbery (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Here I Come",
+      "artist": "Barrington Levy",
+      "intros": [
+        "Here I Come (Intro DJ #1).ogg",
+        "Here I Come (Intro DJ #2).ogg",
+        "Here I Come (Intro).ogg"
+      ],
+      "middle": "Here I Come (Mid).ogg",
+      "outros": [
+        "Here I Come (Outro DJ #1).ogg",
+        "Here I Come (Outro DJ #2).ogg",
+        "Here I Come (Outro).ogg"
+      ]
+    },
+    {
+      "name": "King Tubby Meets Rockers Uptown",
+      "artist": "Augustus Pablo",
+      "intros": [
+        "King Tubby Meets the Rockers Uptown (Intro DJ #1).ogg",
+        "King Tubby Meets the Rockers Uptown (Intro DJ #2).ogg",
+        "King Tubby Meets the Rockers Uptown (Intro).ogg"
+      ],
+      "middle": "King Tubby Meets the Rockers Uptown (Mid).ogg",
+      "outros": [
+        "King Tubby Meets the Rockers Uptown (Outro DJ #1).ogg",
+        "King Tubby Meets the Rockers Uptown (Outro DJ #2).ogg",
+        "King Tubby Meets the Rockers Uptown (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Pressure Drop",
+      "artist": "Toots & The Maytals",
+      "intros": [
+        "Pressure Drop (Intro DJ #1).ogg",
+        "Pressure Drop (Intro DJ #2).ogg",
+        "Pressure Drop (Intro).ogg"
+      ],
+      "middle": "Pressure Drop (Mid).ogg",
+      "outros": [
+        "Pressure Drop (Outro DJ #1).ogg",
+        "Pressure Drop (Outro DJ #2).ogg",
+        "Pressure Drop (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Revolution",
+      "artist": "Dennis Brown",
+      "intros": [
+        "Revolution (Intro DJ #1).ogg",
+        "Revolution (Intro DJ #2).ogg",
+        "Revolution (Intro).ogg"
+      ],
+      "middle": "Revolution (Mid).ogg",
+      "outros": [
+        "Revolution (Outro DJ #1).ogg",
+        "Revolution (Outro DJ #2).ogg",
+        "Revolution (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Ring My Bell",
+      "artist": "Blood Sisters",
+      "intros": [
+        "Ring My Bell (Intro DJ #1).ogg",
+        "Ring My Bell (Intro DJ #2).ogg",
+        "Ring My Bell (Intro).ogg"
+      ],
+      "middle": "Ring My Bell (Mid).ogg",
+      "outros": [
+        "Ring My Bell (Outro DJ #1).ogg",
+        "Ring My Bell (Outro DJ #2).ogg",
+        "Ring My Bell (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Sidewalk Killer",
+      "artist": "I-Roy",
+      "intros": [
+        "Sidewalk Killer (Intro DJ #1).ogg",
+        "Sidewalk Killer (Intro DJ #2).ogg",
+        "Sidewalk Killer (Intro).ogg"
+      ],
+      "middle": "Sidewalk Killer (Mid).ogg",
+      "outros": [
+        "Sidewalk Killer (Outro DJ #1).ogg",
+        "Sidewalk Killer (Outro DJ #2).ogg",
+        "Sidewalk Killer (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Wicked Inna Bed",
+      "artist": "Shabba Ranks",
+      "intros": [
+        "Wicked Inna Bed (Intro DJ #1).ogg",
+        "Wicked Inna Bed (Intro DJ #2).ogg",
+        "Wicked Inna Bed (Intro).ogg"
+      ],
+      "middle": "Wicked Inna Bed (Mid).ogg",
+      "outros": [
+        "Wicked Inna Bed (Outro DJ #1).ogg",
+        "Wicked Inna Bed (Outro DJ #2).ogg",
+        "Wicked Inna Bed (Outro).ogg"
+      ]
+    }
+  ],
+  "idents": [
+    "(ID) 'A breath of fresh air'.ogg",
+    "(ID) 'Cool out with K-JAH'.ogg",
+    "(ID) 'K-JAH West'.ogg",
+    "(ID) 'No argument now'.ogg",
+    "(ID) 'Put your guns down'.ogg",
+    "(ID) 'Stop working'.ogg",
+    "(ID) 'That ain't bass'.ogg",
+    "(ID) 'The best in reggae'.ogg",
+    "(ID) 'We are pilgrims'.ogg",
+    "(ID) 'Winners don't use hard drugs'.ogg"
+  ],
+  "callers": [],
+  "chatter": [
+    "(DJ) 'A straight man'.ogg",
+    "(DJ) 'Actor Johnny'.ogg",
+    "(DJ) 'All they do is smoke'.ogg",
+    "(DJ) 'Beware of the parlour tricks'.ogg",
+    "(DJ) 'Caught the acting bug'.ogg",
+    "(DJ) 'Dreadlocks gonna save us all'.ogg",
+    "(DJ) 'He's no rockstar'.ogg",
+    "(DJ) 'I love my music'.ogg",
+    "(DJ) 'I'll get myself in line'.ogg",
+    "(DJ) 'If you're working, quit'.ogg",
+    "(DJ) 'Mash it up'.ogg",
+    "(DJ) 'More smokin' reggae'.ogg",
+    "(DJ) 'My best friend got stolen away'.ogg",
+    "(DJ) 'Snow in Jamaica'.ogg",
+    "(DJ) 'So you want to be a rude boy'.ogg",
+    "(DJ) 'That sound like a good idea'.ogg",
+    "(DJ) 'They just lock you up'.ogg",
+    "(DJ) 'To all you scientists'.ogg",
+    "(DJ) 'Where is the love gone'.ogg",
+    "(DJ) 'Yeah, this is K-JAH West'.ogg",
+    "(DJ) The British.ogg"
+  ]
+}

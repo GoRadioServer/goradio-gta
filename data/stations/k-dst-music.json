@@ -1,0 +1,126 @@
+{
+  "name": "K-DST (Music Only)",
+  "genre": "Classic Rock; Pop Rock; Hard Rock; Blues Rock; Soft Rock; Roots Rock; Glam Rock; Art Rock; New Wave; Heavy Metal",
+  "dj_name": "Tommy \"The Nightmare\" Smith",
+  "audio_dir": "K-DST",
+  "play_ads": false,
+  "logo_url": "https://gta-tiles.upl.im/radio/logo/SA/K-DST_Icon.png",
+  "type": "music-only",
+  "songs": [
+    {
+      "name": "A Horse with No Name",
+      "artist": "America",
+      "intros": [],
+      "middle": "A Horse with No Name (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Barracuda",
+      "artist": "Heart",
+      "intros": [],
+      "middle": "Barracuda (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Eminence Front",
+      "artist": "The Who",
+      "intros": [],
+      "middle": "Eminence Front (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Free Bird",
+      "artist": "Lynyrd Skynyrd",
+      "intros": [],
+      "middle": "Free Bird (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Get Down to It",
+      "artist": "Humble Pie",
+      "intros": [],
+      "middle": "Get Down to It (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Green River",
+      "artist": "Creedence Clearwater Revival",
+      "intros": [],
+      "middle": "Green River (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Hold the Line",
+      "artist": "Toto",
+      "intros": [],
+      "middle": "Hold the Line (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Runnin' Down a Dream",
+      "artist": "Tom Petty",
+      "intros": [],
+      "middle": "Running Down a Dream (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Slow Ride",
+      "artist": "Foghat",
+      "intros": [],
+      "middle": "Slow Ride (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Smokin'",
+      "artist": "Boston",
+      "intros": [],
+      "middle": "Smokin' (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Some Kind of Wonderful",
+      "artist": "Grand Funk Railroad",
+      "intros": [],
+      "middle": "Some Kind of Wonderful (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Strutter",
+      "artist": "Kiss",
+      "intros": [],
+      "middle": "Strutter (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Two Tickets to Paradise",
+      "artist": "Eddie Money",
+      "intros": [],
+      "middle": "Two Tickets to Paradise (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "White Wedding",
+      "artist": "Eddie Money",
+      "intros": [],
+      "middle": "White Wedding (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Woman To Woman",
+      "artist": "Joe Cocker",
+      "intros": [],
+      "middle": "Woman to Woman (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Young Turks",
+      "artist": "Rod Stewart",
+      "intros": [],
+      "middle": "Young Turks (Mid).ogg",
+      "outros": []
+    }
+  ],
+  "idents": [],
+  "callers": [],
+  "chatter": []
+}

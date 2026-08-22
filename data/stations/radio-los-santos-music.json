@@ -1,0 +1,126 @@
+{
+  "name": "Radio Los Santos (Music Only)",
+  "genre": "Old School Hip Hop; Golden Age Rap; East Coast Hip Hop",
+  "dj_name": "Julio G",
+  "audio_dir": "Radio Los Santos",
+  "play_ads": false,
+  "logo_url": "https://gta-tiles.upl.im/radio/logo/SA/RadioLosSantos-GTASA-Logo.png",
+  "type": "music-only",
+  "songs": [
+    {
+      "name": "Alwayz Into Somethin'",
+      "artist": "N.W.A.",
+      "intros": [],
+      "middle": "Alwayz Into Somethin' (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Check Yo Self (The Message Remix)",
+      "artist": "Ice Cube feat. Das EFX",
+      "intros": [],
+      "middle": "Check Yo Self (The Message Remix) (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Deep Cover",
+      "artist": "Dr. Dre feat. Snoop Dogg",
+      "intros": [],
+      "middle": "Deep Cover (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Eazy-Er Said Than Dunn",
+      "artist": "Eazy-E",
+      "intros": [],
+      "middle": "Eazy-er Said than Dunn (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Express Yourself",
+      "artist": "N.W.A.",
+      "intros": [],
+      "middle": "Express Yourself (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Fuck Wit Dre Day",
+      "artist": "Dr. Dre feat. Snoop Dogg",
+      "intros": [],
+      "middle": "Fuck wit Dre Day (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Guerillas In Tha Mist",
+      "artist": "Da Lench Mob feat. Ice Cube",
+      "intros": [],
+      "middle": "Guerillas in tha Mist (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Hood Took Me Under",
+      "artist": "Compton's Most Wanted",
+      "intros": [],
+      "middle": "Hood Took Me Under (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "How I Could Just Kill A Man",
+      "artist": "Cypress Hill",
+      "intros": [],
+      "middle": "How I Could Just Kill a Man (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "I Don't Give A Fuck",
+      "artist": "2Pac feat. Pogo",
+      "intros": [],
+      "middle": "I Don't Give a Fuck (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "It Was A Good Day",
+      "artist": "Ice Cube",
+      "intros": [],
+      "middle": "It was a Good Day (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "It's Funky Enough",
+      "artist": "The D.O.C.",
+      "intros": [],
+      "middle": "It's Funky Enough (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "La Raza",
+      "artist": "Kid Frost",
+      "intros": [],
+      "middle": "La Raza (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Murder Rap",
+      "artist": "Above The Law",
+      "intros": [],
+      "middle": "Murder Rap (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Nuthin' But A 'G' Thang",
+      "artist": "Dr. Dre feat. Snoop Dogg",
+      "intros": [],
+      "middle": "Nuthin' but a 'G' Thang (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "The Ghetto",
+      "artist": "Too $hort",
+      "intros": [],
+      "middle": "The Ghetto (Mid).ogg",
+      "outros": []
+    }
+  ],
+  "idents": [],
+  "callers": [],
+  "chatter": []
+}

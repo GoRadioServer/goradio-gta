@@ -1,0 +1,353 @@
+{
+  "name": "West Coast Talk Radio",
+  "genre": "Talk Radio",
+  "dj_name": "Various",
+  "audio_dir": "WCTR",
+  "play_ads": true,
+  "logo_url": "https://gta-tiles.upl.im/radio/logo/SA/WCTR-GTASA-Logo.png",
+  "type": "regular",
+  "songs": [
+    {
+      "name": "Area 53 - Episode #1",
+      "artist": "Marvin Trill",
+      "intros": [
+        "Area 53 - Episode #1 (Intro).ogg"
+      ],
+      "middle": "Area 53 - Episode #1 (Mid).ogg",
+      "outros": [
+        "Area 53 - Episode #1 (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Area 53 - Episode #2",
+      "artist": "Marvin Trill",
+      "intros": [
+        "Area 53 - Episode #2 (Intro).ogg"
+      ],
+      "middle": "Area 53 - Episode #2 (Mid).ogg",
+      "outros": [
+        "Area 53 - Episode #2 (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Area 53 - Episode #3",
+      "artist": "Marvin Trill",
+      "intros": [
+        "Area 53 - Episode #3 (Intro).ogg"
+      ],
+      "middle": "Area 53 - Episode #3 (Mid).ogg",
+      "outros": [
+        "Area 53 - Episode #3 (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Entertaining America - Episode #1",
+      "artist": "Billy Dexter",
+      "intros": [
+        "Entertaining America - Episode #1 (Intro).ogg"
+      ],
+      "middle": "Entertaining America - Episode #1 (Mid).ogg",
+      "outros": [
+        "Entertaining America - Episode #1 (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Entertaining America - Episode #2",
+      "artist": "Lazlow Jones",
+      "intros": [
+        "Entertaining America - Episode #2 (Intro).ogg"
+      ],
+      "middle": "Entertaining America - Episode #2 (Mid).ogg",
+      "outros": [
+        "Entertaining America - Episode #2 (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Entertaining America - Episode #3",
+      "artist": "Lazlow Jones",
+      "intros": [
+        "Entertaining America - Episode #3 (Intro).ogg"
+      ],
+      "middle": "Entertaining America - Episode #3 (Mid).ogg",
+      "outros": [
+        "Entertaining America - Episode #3 (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Entertaining America - Teaser",
+      "artist": "Lazlow Jones",
+      "intros": [
+        "Entertaining America - Teaser (Intro).ogg"
+      ],
+      "middle": "Entertaining America - Teaser (Mid).ogg",
+      "outros": [
+        "Entertaining America - Teaser (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Gardening with Maurice - Episode #1",
+      "artist": "Maurice",
+      "intros": [
+        "Gardening with Maurice - Episode #1 (Intro).ogg"
+      ],
+      "middle": "Gardening with Maurice - Episode #1 (Mid).ogg",
+      "outros": [
+        "Gardening with Maurice - Episode #1 (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Gardening with Maurice - Episode #2",
+      "artist": "Maurice",
+      "intros": [
+        "Gardening with Maurice - Episode #2 (Intro).ogg"
+      ],
+      "middle": "Gardening with Maurice - Episode #2 (Mid).ogg",
+      "outros": [
+        "Gardening with Maurice - Episode #2 (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Gardening with Maurice - Teaser #1",
+      "artist": "Maurice",
+      "intros": [
+        "Gardening with Maurice - Teaser #1 (Intro).ogg"
+      ],
+      "middle": "Gardening with Maurice - Teaser #1 (Mid).ogg",
+      "outros": [
+        "Gardening with Maurice - Teaser #1 (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Gardening with Maurice - Teaser #2",
+      "artist": "Maurice",
+      "intros": [
+        "Gardening with Maurice - Teaser #2 (Intro).ogg"
+      ],
+      "middle": "Gardening with Maurice - Teaser #2 (Mid).ogg",
+      "outros": [
+        "Gardening with Maurice - Teaser #2 (Outro).ogg"
+      ]
+    },
+    {
+      "name": "I Say/You Say - Episode #1",
+      "artist": "Peyton and Mary Phillips",
+      "intros": [
+        "I Say, You Say - Episode #1 (Intro).ogg"
+      ],
+      "middle": "I Say, You Say - Episode #1 (Mid).ogg",
+      "outros": [
+        "I Say, You Say - Episode #1 (Outro).ogg"
+      ]
+    },
+    {
+      "name": "I Say/You Say - Episode #2",
+      "artist": "Peyton and Mary Phillips",
+      "intros": [
+        "I Say, You Say - Episode #2 (Intro).ogg"
+      ],
+      "middle": "I Say, You Say - Episode #2 (Mid).ogg",
+      "outros": [
+        "I Say, You Say - Episode #2 (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Lonely Hearts - Episode #1",
+      "artist": "Christy MacIntyre",
+      "intros": [
+        "Lonely Hearts - Episode #1 (Intro).ogg"
+      ],
+      "middle": "Lonely Hearts - Episode #1 (Mid).ogg",
+      "outros": [
+        "Lonely Hearts - Episode #1 (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Lonely Hearts - Episode #2",
+      "artist": "Christy MacIntyre",
+      "intros": [
+        "Lonely Hearts - Episode #2 (Intro).ogg"
+      ],
+      "middle": "Lonely Hearts - Episode #2 (Mid).ogg",
+      "outros": [
+        "Lonely Hearts - Episode #2 (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Lonely Hearts - Episode #3",
+      "artist": "Christy MacIntyre & Fernando Martinez",
+      "intros": [
+        "Lonely Hearts - Episode #3 (Intro).ogg"
+      ],
+      "middle": "Lonely Hearts - Episode #3 (Mid).ogg",
+      "outros": [
+        "Lonely Hearts - Episode #3 (Outro).ogg"
+      ]
+    },
+    {
+      "name": "WCTR News - Episode #1",
+      "artist": "Lianne Forget & Richard Burns",
+      "intros": [
+        "News - Episode #01 (Intro).ogg"
+      ],
+      "middle": "News - Episode #01 (Mid).ogg",
+      "outros": [
+        "News - Episode #01 (Outro).ogg"
+      ]
+    },
+    {
+      "name": "WCTR News - Episode #2",
+      "artist": "Lianne Forget & Richard Burns",
+      "intros": [
+        "News - Episode #02 (Intro).ogg"
+      ],
+      "middle": "News - Episode #02 (Mid).ogg",
+      "outros": [
+        "News - Episode #02 (Outro).ogg"
+      ]
+    },
+    {
+      "name": "WCTR News - Episode #3",
+      "artist": "Lianne Forget & Richard Burns",
+      "intros": [
+        "News - Episode #03 (Intro).ogg"
+      ],
+      "middle": "News - Episode #03 (Mid).ogg",
+      "outros": [
+        "News - Episode #03 (Outro).ogg"
+      ]
+    },
+    {
+      "name": "WCTR News - Episode #4",
+      "artist": "Lianne Forget & Richard Burns",
+      "intros": [
+        "News - Episode #04 (Intro).ogg"
+      ],
+      "middle": "News - Episode #04 (Mid).ogg",
+      "outros": [
+        "News - Episode #04 (Outro).ogg"
+      ]
+    },
+    {
+      "name": "WCTR News - Episode #5",
+      "artist": "Lianne Forget & Richard Burns",
+      "intros": [
+        "News - Episode #05 (Intro).ogg"
+      ],
+      "middle": "News - Episode #05 (Mid).ogg",
+      "outros": [
+        "News - Episode #05 (Outro).ogg"
+      ]
+    },
+    {
+      "name": "WCTR News - Episode #6",
+      "artist": "Lianne Forget & Richard Burns",
+      "intros": [
+        "News - Episode #06 (Intro).ogg"
+      ],
+      "middle": "News - Episode #06 (Mid).ogg",
+      "outros": [
+        "News - Episode #06 (Outro).ogg"
+      ]
+    },
+    {
+      "name": "WCTR News - Episode #7",
+      "artist": "Lianne Forget & Richard Burns",
+      "intros": [
+        "News - Episode #07 (Intro).ogg"
+      ],
+      "middle": "News - Episode #07 (Mid).ogg",
+      "outros": [
+        "News - Episode #07 (Outro).ogg"
+      ]
+    },
+    {
+      "name": "WCTR News - Episode #8",
+      "artist": "Lianne Forget & Richard Burns",
+      "intros": [
+        "News - Episode #08 (Intro).ogg"
+      ],
+      "middle": "News - Episode #08 (Mid).ogg",
+      "outros": [
+        "News - Episode #08 (Outro).ogg"
+      ]
+    },
+    {
+      "name": "WCTR News - Episode #9",
+      "artist": "Lianne Forget & Richard Burns",
+      "intros": [
+        "News - Episode #09 (Intro).ogg"
+      ],
+      "middle": "News - Episode #09 (Mid).ogg",
+      "outros": [
+        "News - Episode #09 (Outro).ogg"
+      ]
+    },
+    {
+      "name": "WCTR News - Episode #11",
+      "artist": "Lianne Forget & Richard Burns",
+      "intros": [
+        "News - Episode #10 (Intro).ogg"
+      ],
+      "middle": "News - Episode #10 (Mid).ogg",
+      "outros": [
+        "News - Episode #11 (Outro).ogg"
+      ]
+    },
+    {
+      "name": "The Tight End Zone - Episode #1",
+      "artist": "Derrick Thackery",
+      "intros": [
+        "The Tight End Zone - Episode #1 (Intro).ogg"
+      ],
+      "middle": "The Tight End Zone - Episode #1 (Mid).ogg",
+      "outros": [
+        "The Tight End Zone - Episode #1 (Outro).ogg"
+      ]
+    },
+    {
+      "name": "The Tight End Zone - Episode #2",
+      "artist": "Derrick Thackery",
+      "intros": [
+        "The Tight End Zone - Episode #2 (Intro).ogg"
+      ],
+      "middle": "The Tight End Zone - Episode #2 (Mid).ogg",
+      "outros": [
+        "The Tight End Zone - Episode #2 (Outro).ogg"
+      ]
+    },
+    {
+      "name": "The Wild Traveler - Episode #1",
+      "artist": "James Pedeaston",
+      "intros": [
+        "The Wild Traveler - Episode #1 (Intro).ogg"
+      ],
+      "middle": "The Wild Traveler - Episode #1 (Mid).ogg",
+      "outros": [
+        "The Wild Traveler - Episode #1 (Outro).ogg"
+      ]
+    },
+    {
+      "name": "The Wild Traveler - Episode #2",
+      "artist": "James Pedeaston",
+      "intros": [
+        "The Wild Traveler - Episode #2 (Intro).ogg"
+      ],
+      "middle": "The Wild Traveler - Episode #2 (Mid).ogg",
+      "outros": [
+        "The Wild Traveler - Episode #2 (Outro).ogg"
+      ]
+    }
+  ],
+  "idents": [
+    "(ID) 'All the news'.ogg",
+    "(ID) 'At home, at work, or in rehab'.ogg",
+    "(ID) 'Deal with your ignorance'.ogg",
+    "(ID) 'If you crave news'.ogg",
+    "(ID) 'Opinions are free'.ogg",
+    "(ID) 'People dying... and explosions'.ogg",
+    "(ID) 'Sensationalist bullshit'.ogg",
+    "(ID) 'Talk is cheap'.ogg"
+  ],
+  "callers": [],
+  "chatter": []
+}

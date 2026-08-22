@@ -1,0 +1,140 @@
+{
+  "name": "Master Sounds 98.3 (Music Only)",
+  "genre": "Various",
+  "dj_name": "Johnny \"The Love Giant\" Parkinson",
+  "audio_dir": "Master Sounds",
+  "play_ads": false,
+  "logo_url": "https://gta-tiles.upl.im/radio/logo/SA/MasterSounds983-GTASA-Logo.png",
+  "type": "music-only",
+  "songs": [
+    {
+      "name": "(I Got) So Much Trouble In My Mind",
+      "artist": "Sir Joe Quarterman",
+      "intros": [],
+      "middle": "(I got) So Much Trouble in My Mind (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Cross The Tracks (We Better Go Back)",
+      "artist": "Maceo & The Macks",
+      "intros": [],
+      "middle": "Cross the Tracks (We Better Go Back) (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Express Yourself",
+      "artist": "Charles Wright & The Watts 103rd Street Rhythm Band",
+      "intros": [],
+      "middle": "Express Yourself (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Funk President (People It's Bad)",
+      "artist": "James Brown",
+      "intros": [],
+      "middle": "Funky President (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Green Onions",
+      "artist": "Booker T. & the MG's",
+      "intros": [],
+      "middle": "Green Onions (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "The Grunt",
+      "artist": "The JB's",
+      "intros": [],
+      "middle": "Grunt (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Hot Pants - I'm Coming, I'm Coming, I'm Coming",
+      "artist": "Bobby Byrd",
+      "intros": [],
+      "middle": "Hot Pants (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "I Know You Got Soul",
+      "artist": "Bobby Byrd",
+      "intros": [],
+      "middle": "I Know You Got Soul (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Jungle Fever",
+      "artist": "The Chakachas",
+      "intros": [],
+      "middle": "Jungle Fever (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Low Rider",
+      "artist": "War",
+      "intros": [],
+      "middle": "Low Rider (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Nautilus",
+      "artist": "Bob James",
+      "intros": [],
+      "middle": "Nautilus (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Rock Creek Park",
+      "artist": "The Blackbyrds",
+      "intros": [],
+      "middle": "Rock Creek Park (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Rock Me Again And Again",
+      "artist": "Lyn Collins",
+      "intros": [],
+      "middle": "Rock Me Again and Again (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Smokin' Cheeba Cheeba",
+      "artist": "Harlem Underground Band",
+      "intros": [],
+      "middle": "Smokin' Cheeba Cheeba (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Soul Power' 74",
+      "artist": "Maceo & The Macks",
+      "intros": [],
+      "middle": "Soul Power '74 (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Tainted Love",
+      "artist": "Gloria Jones",
+      "intros": [],
+      "middle": "Tainted Love (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "The Payback",
+      "artist": "James Brown",
+      "intros": [],
+      "middle": "The Payback (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Think (About It)",
+      "artist": "Lyn Collins",
+      "intros": [],
+      "middle": "Think About It (Mid).ogg",
+      "outros": []
+    }
+  ],
+  "idents": [],
+  "callers": [],
+  "chatter": []
+}

@@ -1,0 +1,226 @@
+{
+  "name": "Playback FM",
+  "genre": "Old School Hip Hop; Golden Age Rap; East Coast Hip Hop",
+  "dj_name": "Forth Right MC",
+  "audio_dir": "Playback FM",
+  "play_ads": true,
+  "logo_url": "https://gta-tiles.upl.im/radio/logo/SA/PlaybackFM-GTASA-Logo.svg",
+  "type": "regular",
+  "songs": [
+    {
+      "name": "B.Y.S.",
+      "artist": "Gang Starr",
+      "intros": [
+        "B.Y.S. (Intro DJ #1).ogg",
+        "B.Y.S. (Intro DJ #2).ogg",
+        "B.Y.S. (Intro).ogg"
+      ],
+      "middle": "B.Y.S. (Mid).ogg",
+      "outros": [
+        "B.Y.S. (Outro DJ #1).ogg",
+        "B.Y.S. (Outro DJ #2).ogg",
+        "B.Y.S. (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Brand Nubian",
+      "artist": "Brand Nubian",
+      "intros": [
+        "Brand Nubian (Intro DJ #1).ogg",
+        "Brand Nubian (Intro DJ #2).ogg",
+        "Brand Nubian (Intro).ogg"
+      ],
+      "middle": "Brand Nubian (Mid).ogg",
+      "outros": [
+        "Brand Nubian (Outro DJ #1).ogg",
+        "Brand Nubian (Outro DJ #2).ogg",
+        "Brand Nubian (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Children's Story",
+      "artist": "Slick Rick",
+      "intros": [
+        "Children's Story (Intro DJ #1).ogg",
+        "Children's Story (Outro DJ #2).ogg",
+        "Children's Story (Outro).ogg"
+      ],
+      "middle": "Children's Story (Mid).ogg",
+      "outros": [
+        "Children's Story (Outro DJ #1).ogg",
+        "Children's Story (Outro DJ #2).ogg",
+        "Children's Story (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Critical Beatdown",
+      "artist": "Ultramagnetic MCs",
+      "intros": [
+        "Critical Beatdown (Intro DJ #1).ogg",
+        "Critical Beatdown (Intro DJ #2).ogg",
+        "Critical Beatdown (Intro).ogg"
+      ],
+      "middle": "Critical Beatdown (Mid).ogg",
+      "outros": [
+        "Critical Beatdown (Outro DJ #1).ogg",
+        "Critical Beatdown (Outro DJ #2).ogg",
+        "Critical Beatdown (Outro).ogg"
+      ]
+    },
+    {
+      "name": "I Know You Go Soul",
+      "artist": "Ric B. & Rakim",
+      "intros": [
+        "I Know You Got Soul (Intro DJ #1).ogg",
+        "I Know You Got Soul (Intro DJ #2).ogg",
+        "I Know You Got Soul (Intro).ogg"
+      ],
+      "middle": "I Know You Got Soul (Mid).ogg",
+      "outros": [
+        "I Know You Got Soul (Outro DJ #1).ogg",
+        "I Know You Got Soul (Outro DJ #2).ogg",
+        "I Know You Got Soul (Outro).ogg"
+      ]
+    },
+    {
+      "name": "It Takes Two",
+      "artist": "Rob Base and DJ E-Z Rock",
+      "intros": [
+        "It Takes Two (Intro DJ #1).ogg",
+        "It Takes Two (Intro DJ #2).ogg",
+        "It Takes Two (Intro).ogg"
+      ],
+      "middle": "It Takes Two (Mid).ogg",
+      "outros": [
+        "It Takes Two (Outro DJ #1).ogg",
+        "It Takes Two (Outro DJ #2).ogg",
+        "It Takes Two (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Me And The Biz",
+      "artist": "Masta Ace",
+      "intros": [
+        "Me & The Biz (Intro DJ #1).ogg",
+        "Me & The Biz (Intro DJ #2).ogg",
+        "Me & The Biz (Intro).ogg"
+      ],
+      "middle": "Me & The Biz (Mid).ogg",
+      "outros": [
+        "Me & The Biz (Outro DJ #1).ogg",
+        "Me & The Biz (Outro DJ #2).ogg",
+        "Me & The Biz (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Rebel Without a Pause",
+      "artist": "Public Enemy",
+      "intros": [
+        "Rebel Without a Pause (Intro DJ #1).ogg",
+        "Rebel Without a Pause (Intro DJ #2).ogg",
+        "Rebel Without a Pause (Intro).ogg"
+      ],
+      "middle": "Rebel Without a Pause (Mid).ogg",
+      "outros": [
+        "Rebel Without a Pause (Outro DJ #1).ogg",
+        "Rebel Without a Pause (Outro DJ #2).ogg",
+        "Rebel Without a Pause (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Road To The Riches",
+      "artist": "Kool G Rap & DJ Polo",
+      "intros": [
+        "Road to the Riches (Intro DJ #1).ogg",
+        "Road to the Riches (Intro DJ #2).ogg",
+        "Road to the Riches (Intro).ogg"
+      ],
+      "middle": "Road to the Riches (Mid).ogg",
+      "outros": [
+        "Road to the Riches (Outro DJ #1).ogg",
+        "Road to the Riches (Outro DJ #2).ogg",
+        "Road to the Riches (Outro).ogg"
+      ]
+    },
+    {
+      "name": "The Godfather",
+      "artist": "Spoonie Gee",
+      "intros": [
+        "The Godfather (Intro DJ #1).ogg",
+        "The Godfather (Intro DJ #2).ogg",
+        "The Godfather (Intro).ogg"
+      ],
+      "middle": "The Godfather (Mid).ogg",
+      "outros": [
+        "The Godfather (Outro DJ #1).ogg",
+        "The Godfather (Outro DJ #2).ogg",
+        "The Godfather (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Vapors",
+      "artist": "Biz Markie",
+      "intros": [
+        "The Vapors (Intro DJ #1).ogg",
+        "The Vapors (Intro DJ #2).ogg",
+        "The Vapors (Intro).ogg"
+      ],
+      "middle": "The Vapors (Mid).ogg",
+      "outros": [
+        "The Vapors (Outro DJ #1).ogg",
+        "The Vapors (Outro DJ #2).ogg",
+        "The Vapors (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Warm It Up, Kane",
+      "artist": "Big Daddy Kane",
+      "intros": [
+        "Warm It Up Kane (Intro DJ #1).ogg",
+        "Warm It Up Kane (Intro DJ #2).ogg",
+        "Warm It Up Kane (Intro).ogg"
+      ],
+      "middle": "Warm It Up Kane (Mid).ogg",
+      "outros": [
+        "Warm It Up Kane (Outro DJ #1).ogg",
+        "Warm It Up Kane (Outro DJ #2).ogg",
+        "Warm It Up Kane (Outro).ogg"
+      ]
+    }
+  ],
+  "idents": [
+    "(ID) 'Doper than anyone else'.ogg",
+    "(ID) 'Drop out of that whack-ass school'.ogg",
+    "(ID) 'Givin' it to ya' straight up, homeboy!'.ogg",
+    "(ID) 'Layin' it down old skool'.ogg",
+    "(ID) 'Skills on the mic'.ogg",
+    "(ID) 'The home of classic hiphop'.ogg",
+    "(ID) 'The man with an opinion on everything'.ogg",
+    "(ID) 'The reason you put that subwoofer in your car'.ogg",
+    "(ID) 'While you suckers were wearing diapers'.ogg",
+    "(ID) 'Word to your mamma'.ogg",
+    "(ID) 'Word up!'.ogg"
+  ],
+  "callers": [
+    "(Caller) 'Well, actually, it's CSR'.ogg",
+    "(Caller) 'You're really annoying'.ogg"
+  ],
+  "chatter": [
+    "(DJ) 'Be educated on the sounds that brung ya'.ogg",
+    "(DJ) 'Cavern of Sorrow marathon'.ogg",
+    "(DJ) 'Get back to the 'burbs you fools!'.ogg",
+    "(DJ) 'Help ain't no charity'.ogg",
+    "(DJ) 'I got seven digits as it is'.ogg",
+    "(DJ) 'I'll go speed of light on y'all'.ogg",
+    "(DJ) 'Los Santos police'.ogg",
+    "(DJ) 'Propaganda'.ogg",
+    "(DJ) 'Ready for your training wheels'.ogg",
+    "(DJ) 'Shoulda paid more attention in school'.ogg",
+    "(DJ) 'Small-minded robots'.ogg",
+    "(DJ) 'There's a party over here'.ogg",
+    "(DJ) 'This goes out to my man the Iceman'.ogg",
+    "(DJ) 'Ugly like yo momma'.ogg",
+    "(DJ) 'West Coast radio suckers'.ogg",
+    "(DJ) 'You don't last a minute'.ogg"
+  ]
+}

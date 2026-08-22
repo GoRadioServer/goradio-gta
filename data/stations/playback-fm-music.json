@@ -1,0 +1,98 @@
+{
+  "name": "Playback FM (Music Only)",
+  "genre": "Old School Hip Hop; Golden Age Rap; East Coast Hip Hop",
+  "dj_name": "Forth Right MC",
+  "audio_dir": "Playback FM",
+  "play_ads": false,
+  "logo_url": "https://gta-tiles.upl.im/radio/logo/SA/PlaybackFM-GTASA-Logo.svg",
+  "type": "music-only",
+  "songs": [
+    {
+      "name": "B.Y.S.",
+      "artist": "Gang Starr",
+      "intros": [],
+      "middle": "B.Y.S. (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Brand Nubian",
+      "artist": "Brand Nubian",
+      "intros": [],
+      "middle": "Brand Nubian (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Children's Story",
+      "artist": "Slick Rick",
+      "intros": [],
+      "middle": "Children's Story (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Critical Beatdown",
+      "artist": "Ultramagnetic MCs",
+      "intros": [],
+      "middle": "Critical Beatdown (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "I Know You Go Soul",
+      "artist": "Ric B. & Rakim",
+      "intros": [],
+      "middle": "I Know You Got Soul (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "It Takes Two",
+      "artist": "Rob Base and DJ E-Z Rock",
+      "intros": [],
+      "middle": "It Takes Two (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Me And The Biz",
+      "artist": "Masta Ace",
+      "intros": [],
+      "middle": "Me & The Biz (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Rebel Without a Pause",
+      "artist": "Public Enemy",
+      "intros": [],
+      "middle": "Rebel Without a Pause (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Road To The Riches",
+      "artist": "Kool G Rap & DJ Polo",
+      "intros": [],
+      "middle": "Road to the Riches (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "The Godfather",
+      "artist": "Spoonie Gee",
+      "intros": [],
+      "middle": "The Godfather (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Vapors",
+      "artist": "Biz Markie",
+      "intros": [],
+      "middle": "The Vapors (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Warm It Up, Kane",
+      "artist": "Big Daddy Kane",
+      "intros": [],
+      "middle": "Warm It Up Kane (Mid).ogg",
+      "outros": []
+    }
+  ],
+  "idents": [],
+  "callers": [],
+  "chatter": []
+}

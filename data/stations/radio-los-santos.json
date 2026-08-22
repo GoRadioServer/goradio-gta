@@ -1,0 +1,273 @@
+{
+  "name": "Radio Los Santos",
+  "genre": "Old School Hip Hop; Golden Age Rap; East Coast Hip Hop",
+  "dj_name": "Julio G",
+  "audio_dir": "Radio Los Santos",
+  "play_ads": true,
+  "logo_url": "https://gta-tiles.upl.im/radio/logo/SA/RadioLosSantos-GTASA-Logo.png",
+  "type": "regular",
+  "songs": [
+    {
+      "name": "Alwayz Into Somethin'",
+      "artist": "N.W.A.",
+      "intros": [
+        "Alwayz Into Somethin' (Intro DJ #1).ogg",
+        "Alwayz Into Somethin' (Intro DJ #2).ogg",
+        "Alwayz Into Somethin' (Intro).ogg"
+      ],
+      "middle": "Alwayz Into Somethin' (Mid).ogg",
+      "outros": [
+        "Alwayz Into Somethin' (Outro DJ #1).ogg",
+        "Alwayz Into Somethin' (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Check Yo Self (The Message Remix)",
+      "artist": "Ice Cube feat. Das EFX",
+      "intros": [
+        "Check Yo Self (The Message Remix) (Intro DJ #1).ogg",
+        "Check Yo Self (The Message Remix) (Intro DJ #2).ogg",
+        "Check Yo Self (The Message Remix) (Intro).ogg"
+      ],
+      "middle": "Check Yo Self (The Message Remix) (Mid).ogg",
+      "outros": [
+        "Check Yo Self (The Message Remix) (Outro DJ #1).ogg",
+        "Check Yo Self (The Message Remix) (Outro DJ #2).ogg",
+        "Check Yo Self (The Message Remix) (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Deep Cover",
+      "artist": "Dr. Dre feat. Snoop Dogg",
+      "intros": [
+        "Deep Cover (Intro DJ #1).ogg",
+        "Deep Cover (Intro).ogg"
+      ],
+      "middle": "Deep Cover (Mid).ogg",
+      "outros": [
+        "Deep Cover (Outro DJ #1).ogg",
+        "Deep Cover (Outro DJ #2).ogg",
+        "Deep Cover (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Eazy-Er Said Than Dunn",
+      "artist": "Eazy-E",
+      "intros": [
+        "Eazy-er Said than Dunn (Intro DJ #1).ogg",
+        "Eazy-er Said than Dunn (Intro DJ #2).ogg",
+        "Eazy-er Said than Dunn (Intro).ogg"
+      ],
+      "middle": "Eazy-er Said than Dunn (Mid).ogg",
+      "outros": [
+        "Eazy-er Said than Dunn (Outro DJ #1).ogg",
+        "Eazy-er Said than Dunn (Outro DJ #2).ogg",
+        "Eazy-er Said than Dunn (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Express Yourself",
+      "artist": "N.W.A.",
+      "intros": [
+        "Express Yourself (Intro DJ #1).ogg",
+        "Express Yourself (Intro DJ #2).ogg",
+        "Express Yourself (Intro).ogg"
+      ],
+      "middle": "Express Yourself (Mid).ogg",
+      "outros": [
+        "Express Yourself (Outro DJ #1).ogg",
+        "Express Yourself (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Fuck Wit Dre Day",
+      "artist": "Dr. Dre feat. Snoop Dogg",
+      "intros": [
+        "Fuck wit Dre Day (Intro DJ #1).ogg",
+        "Fuck wit Dre Day (Intro DJ #2).ogg",
+        "Fuck wit Dre Day (Intro).ogg"
+      ],
+      "middle": "Fuck wit Dre Day (Mid).ogg",
+      "outros": [
+        "Fuck wit Dre Day (Outro DJ #1).ogg",
+        "Fuck wit Dre Day (Outro DJ #2).ogg",
+        "Fuck wit Dre Day (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Guerillas In Tha Mist",
+      "artist": "Da Lench Mob feat. Ice Cube",
+      "intros": [
+        "Guerillas in tha Mist (Intro DJ #1).ogg",
+        "Guerillas in tha Mist (Intro DJ #2).ogg",
+        "Guerillas in tha Mist (Intro).ogg"
+      ],
+      "middle": "Guerillas in tha Mist (Mid).ogg",
+      "outros": [
+        "Guerillas in tha Mist (Outro DJ #1).ogg",
+        "Guerillas in tha Mist (Outro DJ #2).ogg",
+        "Guerillas in tha Mist (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Hood Took Me Under",
+      "artist": "Compton's Most Wanted",
+      "intros": [
+        "Hood Took Me Under (Intro DJ #1).ogg",
+        "Hood Took Me Under (Intro DJ #2).ogg",
+        "Hood Took Me Under (Intro).ogg"
+      ],
+      "middle": "Hood Took Me Under (Mid).ogg",
+      "outros": [
+        "Hood Took Me Under (Outro DJ #1).ogg",
+        "Hood Took Me Under (Outro DJ #2).ogg",
+        "Hood Took Me Under (Outro).ogg"
+      ]
+    },
+    {
+      "name": "How I Could Just Kill A Man",
+      "artist": "Cypress Hill",
+      "intros": [
+        "How I Could Just Kill a Man (Intro DJ #1).ogg",
+        "How I Could Just Kill a Man (Intro).ogg"
+      ],
+      "middle": "How I Could Just Kill a Man (Mid).ogg",
+      "outros": [
+        "How I Could Just Kill a Man (Outro DJ #1).ogg",
+        "How I Could Just Kill a Man (Outro).ogg"
+      ]
+    },
+    {
+      "name": "I Don't Give A Fuck",
+      "artist": "2Pac feat. Pogo",
+      "intros": [
+        "I Don't Give a Fuck (Intro DJ #1).ogg",
+        "I Don't Give a Fuck (Intro DJ #2).ogg",
+        "I Don't Give a Fuck (Intro).ogg"
+      ],
+      "middle": "I Don't Give a Fuck (Mid).ogg",
+      "outros": [
+        "I Don't Give a Fuck (Outro DJ #1).ogg",
+        "I Don't Give a Fuck (Outro DJ #2).ogg",
+        "I Don't Give a Fuck (Outro).ogg"
+      ]
+    },
+    {
+      "name": "It Was A Good Day",
+      "artist": "Ice Cube",
+      "intros": [
+        "It was a Good Day (Intro DJ #1).ogg",
+        "It was a Good Day (Intro).ogg"
+      ],
+      "middle": "It was a Good Day (Mid).ogg",
+      "outros": [
+        "It was a Good Day (Outro DJ #1).ogg",
+        "It was a Good Day (Outro).ogg"
+      ]
+    },
+    {
+      "name": "It's Funky Enough",
+      "artist": "The D.O.C.",
+      "intros": [
+        "It's Funky Enough (Intro DJ #1).ogg",
+        "It's Funky Enough (Intro DJ #2).ogg",
+        "It's Funky Enough (Intro).ogg"
+      ],
+      "middle": "It's Funky Enough (Mid).ogg",
+      "outros": [
+        "It's Funky Enough (Outro DJ #1).ogg",
+        "It's Funky Enough (Outro DJ #2).ogg",
+        "It's Funky Enough (Outro).ogg"
+      ]
+    },
+    {
+      "name": "La Raza",
+      "artist": "Kid Frost",
+      "intros": [
+        "La Raza (Intro DJ #1).ogg",
+        "La Raza (Intro DJ #2).ogg",
+        "La Raza (Intro).ogg"
+      ],
+      "middle": "La Raza (Mid).ogg",
+      "outros": [
+        "La Raza (Outro DJ #1).ogg",
+        "La Raza (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Murder Rap",
+      "artist": "Above The Law",
+      "intros": [
+        "Murder Rap (Intro DJ #1).ogg",
+        "Murder Rap (Intro DJ #2).ogg",
+        "Murder Rap (Intro).ogg"
+      ],
+      "middle": "Murder Rap (Mid).ogg",
+      "outros": [
+        "Murder Rap (Outro DJ #1).ogg",
+        "Murder Rap (Outro DJ #2).ogg",
+        "Murder Rap (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Nuthin' But A 'G' Thang",
+      "artist": "Dr. Dre feat. Snoop Dogg",
+      "intros": [
+        "Nuthin' but a 'G' Thang (Intro DJ #1).ogg",
+        "Nuthin' but a 'G' Thang (Intro DJ #2).ogg",
+        "Nuthin' but a 'G' Thang (Intro).ogg"
+      ],
+      "middle": "Nuthin' but a 'G' Thang (Mid).ogg",
+      "outros": [
+        "Nuthin' but a 'G' Thang (Outro DJ #1).ogg",
+        "Nuthin' but a 'G' Thang (Outro DJ #2).ogg",
+        "Nuthin' but a 'G' Thang (Outro).ogg"
+      ]
+    },
+    {
+      "name": "The Ghetto",
+      "artist": "Too $hort",
+      "intros": [
+        "The Ghetto (Intro).ogg"
+      ],
+      "middle": "The Ghetto (Mid).ogg",
+      "outros": [
+        "The Ghetto (Outro DJ #1).ogg",
+        "The Ghetto (Outro DJ #2).ogg",
+        "The Ghetto (Outro).ogg"
+      ]
+    }
+  ],
+  "idents": [
+    "(ID) 'Can I have a t-shirt'.ogg",
+    "(ID) 'Doin' it evolution-style'.ogg",
+    "(ID) 'Fool gave me the clap'.ogg",
+    "(ID) 'I sent you my demo nine times'.ogg",
+    "(ID) 'Julio's the man'.ogg",
+    "(ID) 'The home of gansta rap and gangsta bitches'.ogg",
+    "(ID) 'Your voice is sooo sexy'.ogg",
+    "(ID) B-Real of Cypress Hill.ogg",
+    "(ID) Madd Dogg.ogg",
+    "(ID) O.G. Loc.ogg",
+    "(ID) Shout-outs.ogg"
+  ],
+  "callers": [],
+  "chatter": [
+    "(DJ) 'Burglary and carjacking is both up'.ogg",
+    "(DJ) 'Denise is desperate'.ogg",
+    "(DJ) 'Difference between a rapper and a gangster'.ogg",
+    "(DJ) 'Don't touch that dial'.ogg",
+    "(DJ) 'I get it first, the others get it last'.ogg",
+    "(DJ) 'My man Les in the north'.ogg",
+    "(DJ) 'Not the home of gangster fools'.ogg",
+    "(DJ) 'Original home of the drive-by'.ogg",
+    "(DJ) 'Ruling the airwaves'.ogg",
+    "(DJ) 'Sam and the boys from Liberty City'.ogg",
+    "(DJ) 'Self-styled Audio Boys'.ogg",
+    "(DJ) 'The home of gangsta rap'.ogg",
+    "(DJ) 'The hottest shit around'.ogg",
+    "(DJ) 'The rest of the world can follow'.ogg",
+    "(DJ) 'We play the real shit'.ogg",
+    "(DJ) 'Your man Julio G'.ogg"
+  ]
+}

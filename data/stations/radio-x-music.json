@@ -1,0 +1,119 @@
+{
+  "name": "Radio X (Music Only)",
+  "genre": "Alternative rock; Alternative metal; Alternative dance; Grunge; Heavy metal; Hard rock; Madchester; Funk rock",
+  "dj_name": "Sage",
+  "audio_dir": "Radio X",
+  "play_ads": false,
+  "logo_url": "https://gta-tiles.upl.im/radio/logo/SA/RadioX-GTASA-Logo.png",
+  "type": "music-only",
+  "songs": [
+    {
+      "name": "Been Caught Stealing",
+      "artist": "Jane's Addiction",
+      "intros": [],
+      "middle": "Been Caught Stealing (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Cult Of Personality",
+      "artist": "Living Colour",
+      "intros": [],
+      "middle": "Cult of Personality (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Fools Gold",
+      "artist": "The Stone Roses",
+      "intros": [],
+      "middle": "Fools Gold (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Hellraiser",
+      "artist": "Ozzy Osbourne",
+      "intros": [],
+      "middle": "Hellraiser (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Killing In The Name",
+      "artist": "Rage Against The Machine",
+      "intros": [],
+      "middle": "Killing in the Name (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Midlife Crisis",
+      "artist": "Faith No More",
+      "intros": [],
+      "middle": "Midlife Crisis (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Mother",
+      "artist": "Danzig",
+      "intros": [],
+      "middle": "Mother (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Movin' On Up",
+      "artist": "Primal Scream",
+      "intros": [],
+      "middle": "Movin' on Up (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Personal Jesus",
+      "artist": "Depeche Mode",
+      "intros": [],
+      "middle": "Personal Jesus (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Plush",
+      "artist": "Stone Temple Pilots",
+      "intros": [],
+      "middle": "Plush (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Pretend We're Dead",
+      "artist": "L7",
+      "intros": [],
+      "middle": "Pretend We're Dead (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Rusty Cage",
+      "artist": "Soundgarden",
+      "intros": [],
+      "middle": "Rusty Cage (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Them Bones",
+      "artist": "Alice In Chains",
+      "intros": [],
+      "middle": "Them Bones (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Unsung",
+      "artist": "Helmet",
+      "intros": [],
+      "middle": "Unsung (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Welcome To The Jungle",
+      "artist": "Guns N' Roses",
+      "intros": [],
+      "middle": "Welcome to the Jungle (Mid).ogg",
+      "outros": []
+    }
+  ],
+  "idents": [],
+  "callers": [],
+  "chatter": []
+}

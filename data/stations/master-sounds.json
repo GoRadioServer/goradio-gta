@@ -1,0 +1,311 @@
+{
+  "name": "Master Sounds 98.3",
+  "genre": "Various",
+  "dj_name": "Johnny \"The Love Giant\" Parkinson",
+  "audio_dir": "Master Sounds",
+  "play_ads": true,
+  "logo_url": "https://gta-tiles.upl.im/radio/logo/SA/MasterSounds983-GTASA-Logo.png",
+  "type": "regular",
+  "songs": [
+    {
+      "name": "(I Got) So Much Trouble In My Mind",
+      "artist": "Sir Joe Quarterman",
+      "intros": [
+        "(I got) So Much Trouble in My Mind (Intro DJ #1).ogg",
+        "(I got) So Much Trouble in My Mind (Intro DJ #2).ogg",
+        "(I got) So Much Trouble in My Mind (Intro).ogg"
+      ],
+      "middle": "(I got) So Much Trouble in My Mind (Mid).ogg",
+      "outros": [
+        "(I got) So Much Trouble in My Mind (Outro DJ #1).ogg",
+        "(I got) So Much Trouble in My Mind (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Cross The Tracks (We Better Go Back)",
+      "artist": "Maceo & The Macks",
+      "intros": [
+        "Cross the Tracks (We Better Go Back) (Intro DJ #1).ogg",
+        "Cross the Tracks (We Better Go Back) (Intro DJ #2).ogg",
+        "Cross the Tracks (We Better Go Back) (Intro).ogg"
+      ],
+      "middle": "Cross the Tracks (We Better Go Back) (Mid).ogg",
+      "outros": [
+        "Cross the Tracks (We Better Go Back) (Outro DJ #1).ogg",
+        "Cross the Tracks (We Better Go Back) (Outro DJ #2).ogg",
+        "Cross the Tracks (We Better Go Back) (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Express Yourself",
+      "artist": "Charles Wright & The Watts 103rd Street Rhythm Band",
+      "intros": [
+        "Express Yourself (Intro DJ #1).ogg",
+        "Express Yourself (Intro DJ #2).ogg",
+        "Express Yourself (Intro).ogg"
+      ],
+      "middle": "Express Yourself (Mid).ogg",
+      "outros": [
+        "Express Yourself (Outro DJ #1).ogg",
+        "Express Yourself (Outro DJ #2).ogg",
+        "Express Yourself (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Funk President (People It's Bad)",
+      "artist": "James Brown",
+      "intros": [
+        "Funky President (Intro DJ #1).ogg",
+        "Funky President (Intro DJ #2).ogg",
+        "Funky President (Intro).ogg"
+      ],
+      "middle": "Funky President (Mid).ogg",
+      "outros": [
+        "Funky President (Outro DJ #1).ogg",
+        "Funky President (Outro DJ #2).ogg",
+        "Funky President (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Green Onions",
+      "artist": "Booker T. & the MG's",
+      "intros": [
+        "Green Onions (Intro DJ #1).ogg",
+        "Green Onions (Intro DJ #2).ogg",
+        "Green Onions (Intro).ogg"
+      ],
+      "middle": "Green Onions (Mid).ogg",
+      "outros": [
+        "Green Onions (Outro DJ #1).ogg",
+        "Green Onions (Outro DJ #2).ogg",
+        "Green Onions (Outro).ogg"
+      ]
+    },
+    {
+      "name": "The Grunt",
+      "artist": "The JB's",
+      "intros": [
+        "Grunt (Intro DJ #1).ogg",
+        "Grunt (Intro DJ #2).ogg",
+        "Grunt (Intro).ogg"
+      ],
+      "middle": "Grunt (Mid).ogg",
+      "outros": [
+        "Grunt (Outro DJ #1).ogg",
+        "Grunt (Outro DJ #2).ogg",
+        "Grunt (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Hot Pants - I'm Coming, I'm Coming, I'm Coming",
+      "artist": "Bobby Byrd",
+      "intros": [
+        "Hot Pants (Intro DJ #1).ogg",
+        "Hot Pants (Intro DJ #2).ogg",
+        "Hot Pants (Intro).ogg"
+      ],
+      "middle": "Hot Pants (Mid).ogg",
+      "outros": [
+        "Hot Pants (Outro DJ #1).ogg",
+        "Hot Pants (Outro DJ #2).ogg",
+        "Hot Pants (Outro).ogg"
+      ]
+    },
+    {
+      "name": "I Know You Got Soul",
+      "artist": "Bobby Byrd",
+      "intros": [
+        "I Know You Got Soul (Intro DJ #1).ogg",
+        "I Know You Got Soul (Intro DJ #2).ogg",
+        "I Know You Got Soul (Intro).ogg"
+      ],
+      "middle": "I Know You Got Soul (Mid).ogg",
+      "outros": [
+        "I Know You Got Soul (Outro DJ #1).ogg",
+        "I Know You Got Soul (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Jungle Fever",
+      "artist": "The Chakachas",
+      "intros": [
+        "Jungle Fever (Intro DJ #1).ogg",
+        "Jungle Fever (Intro DJ #2).ogg",
+        "Jungle Fever (Intro).ogg"
+      ],
+      "middle": "Jungle Fever (Mid).ogg",
+      "outros": [
+        "Jungle Fever (Outro DJ #1).ogg",
+        "Jungle Fever (Outro DJ #2).ogg",
+        "Jungle Fever (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Low Rider",
+      "artist": "War",
+      "intros": [
+        "Low Rider (Intro DJ #1).ogg",
+        "Low Rider (Intro DJ #2).ogg",
+        "Low Rider (Intro).ogg"
+      ],
+      "middle": "Low Rider (Mid).ogg",
+      "outros": [
+        "Low Rider (Outro DJ #1).ogg",
+        "Low Rider (Outro DJ #2).ogg",
+        "Low Rider (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Nautilus",
+      "artist": "Bob James",
+      "intros": [
+        "Nautilus (Intro DJ #1).ogg",
+        "Nautilus (Intro DJ #2).ogg",
+        "Nautilus (Intro).ogg"
+      ],
+      "middle": "Nautilus (Mid).ogg",
+      "outros": [
+        "Nautilus (Outro DJ #1).ogg",
+        "Nautilus (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Rock Creek Park",
+      "artist": "The Blackbyrds",
+      "intros": [
+        "Rock Creek Park (Intro DJ #1).ogg",
+        "Rock Creek Park (Intro DJ #2).ogg",
+        "Rock Creek Park (Intro).ogg"
+      ],
+      "middle": "Rock Creek Park (Mid).ogg",
+      "outros": [
+        "Rock Creek Park (Outro DJ #1).ogg",
+        "Rock Creek Park (Outro DJ #2).ogg",
+        "Rock Creek Park (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Rock Me Again And Again",
+      "artist": "Lyn Collins",
+      "intros": [
+        "Rock Me Again and Again (Intro DJ #1).ogg",
+        "Rock Me Again and Again (Intro DJ #2).ogg",
+        "Rock Me Again and Again (Intro).ogg"
+      ],
+      "middle": "Rock Me Again and Again (Mid).ogg",
+      "outros": [
+        "Rock Me Again and Again (Outro DJ #1).ogg",
+        "Rock Me Again and Again (Outro DJ #2).ogg",
+        "Rock Me Again and Again (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Smokin' Cheeba Cheeba",
+      "artist": "Harlem Underground Band",
+      "intros": [
+        "Smokin' Cheeba Cheeba (Intro DJ #1).ogg",
+        "Smokin' Cheeba Cheeba (Intro DJ #2).ogg",
+        "Smokin' Cheeba Cheeba (Intro).ogg"
+      ],
+      "middle": "Smokin' Cheeba Cheeba (Mid).ogg",
+      "outros": [
+        "Smokin' Cheeba Cheeba (Outro DJ #1).ogg",
+        "Smokin' Cheeba Cheeba (Outro DJ #2).ogg",
+        "Smokin' Cheeba Cheeba (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Soul Power' 74",
+      "artist": "Maceo & The Macks",
+      "intros": [
+        "Soul Power '74 (Intro DJ #1).ogg",
+        "Soul Power '74 (Intro).ogg"
+      ],
+      "middle": "Soul Power '74 (Mid).ogg",
+      "outros": [
+        "Soul Power '74 (Outro DJ #1).ogg",
+        "Soul Power '74 (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Tainted Love",
+      "artist": "Gloria Jones",
+      "intros": [
+        "Tainted Love (Intro).ogg"
+      ],
+      "middle": "Tainted Love (Mid).ogg",
+      "outros": [
+        "Tainted Love (Outro).ogg"
+      ]
+    },
+    {
+      "name": "The Payback",
+      "artist": "James Brown",
+      "intros": [
+        "The Payback (Intro DJ #1).ogg",
+        "The Payback (Intro DJ #2).ogg",
+        "The Payback (Intro).ogg"
+      ],
+      "middle": "The Payback (Mid).ogg",
+      "outros": [
+        "The Payback (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Think (About It)",
+      "artist": "Lyn Collins",
+      "intros": [
+        "Think About It (Intro DJ #1).ogg",
+        "Think About It (Intro DJ #2).ogg",
+        "Think About It (Intro).ogg"
+      ],
+      "middle": "Think About It (Mid).ogg",
+      "outros": [
+        "Think About It (Outro DJ #1).ogg",
+        "Think About It (Outro DJ #2).ogg",
+        "Think About It (Outro).ogg"
+      ]
+    }
+  ],
+  "idents": [
+    "(ID) 'Before it got sampled'.ogg",
+    "(ID) 'Big Daddy's back in town'.ogg",
+    "(ID) 'Find a beat to steer you'.ogg",
+    "(ID) 'It's the Love Giant'.ogg",
+    "(ID) 'Stop, listen, and learn'.ogg",
+    "(ID) 'The home of cool rare grooves'.ogg",
+    "(ID) 'We're bringing it back'.ogg",
+    "(ID) 'When the rhythm method was king'.ogg"
+  ],
+  "callers": [
+    "(Caller) 'How tall are you'.ogg",
+    "(Caller) 'I get a great boner'.ogg",
+    "(Caller) 'We love you'.ogg",
+    "(Caller) 'What was that racket last night'.ogg",
+    "(Caller) 'Your attitude is disgusting'.ogg"
+  ],
+  "chatter": [
+    "(DJ) 'A little dude wit a attitude'.ogg",
+    "(DJ) 'Big Daddy'.ogg",
+    "(DJ) 'Check out your headlights'.ogg",
+    "(DJ) 'Don't be a fool and be defiant'.ogg",
+    "(DJ) 'Eye-level with your kitty-cat'.ogg",
+    "(DJ) 'Gonna end up in the hospital'.ogg",
+    "(DJ) 'I am the Giant'.ogg",
+    "(DJ) 'I know you thinkin' girl'.ogg",
+    "(DJ) 'I'm about to suck you right on up'.ogg",
+    "(DJ) 'It's all pink on the inside'.ogg",
+    "(DJ) 'Keep the groove groovin''.ogg",
+    "(DJ) 'Lovin' you, coz you my bitch'.ogg",
+    "(DJ) 'My book'.ogg",
+    "(DJ) 'Playing it for keeps'.ogg",
+    "(DJ) 'Right in your earhole, 3D style'.ogg",
+    "(DJ) 'Small packages'.ogg",
+    "(DJ) 'The art of love and...sensible advice'.ogg",
+    "(DJ) 'The love doctor'.ogg",
+    "(DJ) 'The master of the rare groove'.ogg",
+    "(DJ) 'To Heaven like nineteen times'.ogg",
+    "(DJ) 'Too much soul'.ogg",
+    "(DJ) 'You're tuned into who'.ogg"
+  ]
+}

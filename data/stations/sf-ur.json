@@ -1,0 +1,244 @@
+{
+  "name": "SF-UR",
+  "genre": "House; Acid House",
+  "dj_name": "Hans Oberlander",
+  "audio_dir": "SFUR",
+  "play_ads": true,
+  "logo_url": "https://gta-tiles.upl.im/radio/logo/SA/SFUR-GTASA-Logo.png",
+  "type": "regular",
+  "songs": [
+    {
+      "name": "Break 4 Love",
+      "artist": "Raze",
+      "intros": [
+        "Break 4 Love (Intro DJ #1).ogg",
+        "Break 4 Love (Intro DJ #2).ogg"
+      ],
+      "middle": "Break 4 Love (Mid).ogg",
+      "outros": [
+        "Break 4 Love (Outro DJ #1).ogg",
+        "Break 4 Love (Outro DJ #2).ogg"
+      ]
+    },
+    {
+      "name": "Can You Feel It?",
+      "artist": "Mr. Fingers",
+      "intros": [
+        "Can You Feel It (Intro DJ #1).ogg",
+        "Can You Feel It (Intro DJ #2).ogg"
+      ],
+      "middle": "Can You Feel It (Mid).ogg",
+      "outros": [
+        "Can You Feel It (Outro DJ #1).ogg",
+        "Can You Feel It (Outro DJ #2).ogg"
+      ]
+    },
+    {
+      "name": "I Need A Rhythm",
+      "artist": "The 28th Street Crew",
+      "intros": [
+        "I Need a Rhythm (Intro DJ #1).ogg",
+        "I Need a Rhythm (Intro DJ #2).ogg"
+      ],
+      "middle": "I Need a Rhythm (Mid).ogg",
+      "outros": [
+        "I Need a Rhythm (Outro DJ #1).ogg",
+        "I Need a Rhythm (Outro DJ #2).ogg"
+      ]
+    },
+    {
+      "name": "I'll Be Your Friend (Original DEF Mix)",
+      "artist": "Robert Ownes",
+      "intros": [
+        "I'll be Your Friend (Intro DJ #1).ogg",
+        "I'll be Your Friend (Intro DJ #2).ogg"
+      ],
+      "middle": "I'll be Your Friend (Mid).ogg",
+      "outros": [
+        "I'll be Your Friend (Outro DJ #1).ogg",
+        "I'll be Your Friend (Outro DJ #2).ogg"
+      ]
+    },
+    {
+      "name": "Let The Music Use You",
+      "artist": "Nightwriters",
+      "intros": [
+        "Let the Music Use You (Intro DJ #1).ogg",
+        "Let the Music Use You (Intro DJ #2).ogg"
+      ],
+      "middle": "Let the Music Use You (Mid).ogg",
+      "outros": [
+        "Let the Music Use You (Outro DJ #1).ogg",
+        "Let the Music Use You (Outro DJ #2).ogg"
+      ]
+    },
+    {
+      "name": "Ma Foom Bey",
+      "artist": "Cultural Vibe",
+      "intros": [
+        "Ma Foom Bey (Intro DJ #1).ogg",
+        "Ma Foom Bey (Intro DJ #2).ogg"
+      ],
+      "middle": "Ma Foom Bey (Mid).ogg",
+      "outros": [
+        "Ma Foom Bey (Outro DJ #1).ogg",
+        "Ma Foom Bey (Outro DJ #2).ogg"
+      ]
+    },
+    {
+      "name": "Make My Body Rock",
+      "artist": "Jomanda",
+      "intros": [
+        "Make My Body Rock (Intro DJ #1).ogg",
+        "Make My Body Rock (Intro DJ #2).ogg"
+      ],
+      "middle": "Make My Body Rock (Mid).ogg",
+      "outros": [
+        "Make My Body Rock (Outro DJ #1).ogg",
+        "Make My Body Rock (Outro DJ #2).ogg"
+      ]
+    },
+    {
+      "name": "Move Your Body",
+      "artist": "Marshall Jefferson",
+      "intros": [
+        "Move Your Body (Intro DJ #1).ogg",
+        "Move Your Body (Intro DJ #2).ogg"
+      ],
+      "middle": "Move Your Body (Mid).ogg",
+      "outros": [
+        "Move Your Body (Outro DJ #1).ogg",
+        "Move Your Body (Outro DJ #2).ogg"
+      ]
+    },
+    {
+      "name": "Pacific 202",
+      "artist": "808 State",
+      "intros": [
+        "Pacific (Intro DJ #1).ogg",
+        "Pacific (Intro DJ #2).ogg"
+      ],
+      "middle": "Pacific (Mid).ogg",
+      "outros": [
+        "Pacific (Outro DJ #1).ogg",
+        "Pacific (Outro DJ #2).ogg"
+      ]
+    },
+    {
+      "name": "Promised Land",
+      "artist": "Joe SMooth feat. Anthony Thomas",
+      "intros": [
+        "Promised Land (Intro DJ #1).ogg",
+        "Promised Land (Intro DJ #2).ogg"
+      ],
+      "middle": "Promised Land (Mid).ogg",
+      "outros": [
+        "Promised Land (Outro DJ #1).ogg",
+        "Promised Land (Outro DJ #2).ogg"
+      ]
+    },
+    {
+      "name": "Someday",
+      "artist": "CeCe Rogers",
+      "intros": [
+        "Someday (Intro DJ #1).ogg",
+        "Someday (Intro DJ #2).ogg"
+      ],
+      "middle": "Someday (Mid).ogg",
+      "outros": [
+        "Someday (Outro DJ #1).ogg",
+        "Someday (Outro DJ #2).ogg"
+      ]
+    },
+    {
+      "name": "The Morning After (Sunrise Mix)",
+      "artist": "Fallout",
+      "intros": [
+        "The Morning After (Intro DJ #1).ogg",
+        "The Morning After (Intro DJ #2).ogg"
+      ],
+      "middle": "The Morning After (Mid).ogg",
+      "outros": [
+        "The Morning After (Outro DJ #1).ogg",
+        "The Morning After (Outro DJ #2).ogg"
+      ]
+    },
+    {
+      "name": "This Is Acid (A New Dance Craze) (K & T Mix)",
+      "artist": "Maurice",
+      "intros": [
+        "This is Acid (Intro DJ #1).ogg",
+        "This is Acid (Intro DJ #2).ogg"
+      ],
+      "middle": "This is Acid (Mid).ogg",
+      "outros": [
+        "This is Acid (Outro DJ #1).ogg",
+        "This is Acid (Outro DJ #2).ogg"
+      ]
+    },
+    {
+      "name": "Voodoo Ray",
+      "artist": "A Guy Called Gerald",
+      "intros": [
+        "Voodoo Ray (Intro DJ #1).ogg",
+        "Voodoo Ray (Intro DJ #2).ogg"
+      ],
+      "middle": "Voodoo Ray (Mid).ogg",
+      "outros": [
+        "Voodoo Ray (Outro DJ #1).ogg",
+        "Voodoo Ray (Outro DJ #2).ogg"
+      ]
+    },
+    {
+      "name": "Weekend",
+      "artist": "The Todd Terry Project",
+      "intros": [
+        "Weekend (Intro DJ #1).ogg",
+        "Weekend (Intro DJ #2).ogg"
+      ],
+      "middle": "Weekend (Mid).ogg",
+      "outros": [
+        "Weekend (Outro DJ #1).ogg",
+        "Weekend (Outro DJ #2).ogg"
+      ]
+    },
+    {
+      "name": "Your Love",
+      "artist": "Frankie Knucklesfeat. Jamie Principle",
+      "intros": [
+        "Your Love (Intro DJ #1).ogg",
+        "Your Love (Intro DJ #2).ogg"
+      ],
+      "middle": "Your Love (Mid).ogg",
+      "outros": [
+        "Your Love (Outro DJ #1).ogg",
+        "Your Love (Outro DJ #2).ogg"
+      ]
+    }
+  ],
+  "idents": [],
+  "callers": [],
+  "chatter": [
+    "(DJ) 'Don't make me go to rehab'.ogg",
+    "(DJ) 'European style... shaved'.ogg",
+    "(DJ) 'Harder, faster, deeper!'.ogg",
+    "(DJ) 'Has anyone got any cigarette papers'.ogg",
+    "(DJ) 'Has that dealer turned up yet'.ogg",
+    "(DJ) 'I am a rebel'.ogg",
+    "(DJ) 'I am communing with you'.ogg",
+    "(DJ) 'I come to America'.ogg",
+    "(DJ) 'I love complete strangers'.ogg",
+    "(DJ) 'I love you, San Fierro'.ogg",
+    "(DJ) 'I want to cry'.ogg",
+    "(DJ) 'I went to Liberty City once'.ogg",
+    "(DJ) 'Keep the party moving in here'.ogg",
+    "(DJ) 'Keeping it on a housey tip now'.ogg",
+    "(DJ) 'Let's party'.ogg",
+    "(DJ) 'Living in a digital future'.ogg",
+    "(DJ) 'People cry when they see my record collection'.ogg",
+    "(DJ) 'Shut up and dance, you fools!'.ogg",
+    "(DJ) 'The computers have taken over'.ogg",
+    "(DJ) 'We are like dolphins clicking'.ogg",
+    "(DJ) 'Would you like a pillow'.ogg"
+  ]
+}

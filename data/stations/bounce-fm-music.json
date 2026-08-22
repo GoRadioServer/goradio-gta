@@ -1,0 +1,133 @@
+{
+  "name": "Bounce FM (Music Only)",
+  "genre": "Funk; R&B; Soul; Disco",
+  "dj_name": "The Funktipus",
+  "audio_dir": "Bounce FM",
+  "play_ads": false,
+  "logo_url": "https://gta-tiles.upl.im/radio/logo/SA/BounceFM-GTASA-Logo.png",
+  "type": "music-only",
+  "songs": [
+    {
+      "name": "Between The Sheets",
+      "artist": "The Isley Brothers",
+      "intros": [],
+      "middle": "Between the Sheets (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Candy",
+      "artist": "Cameo",
+      "intros": [],
+      "middle": "Candy (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Cold Blooded",
+      "artist": "Rick James",
+      "intros": [],
+      "middle": "Cold Blooded (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Fantastic Voyage",
+      "artist": "Lakeside",
+      "intros": [],
+      "middle": "Fantastic Voyage (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Funky Worm",
+      "artist": "Ohio Players",
+      "intros": [],
+      "middle": "Funky Worm (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Hollywood Swinging",
+      "artist": "Kool & The Gang",
+      "intros": [],
+      "middle": "Hollywood Swingin' (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "I Can Make You Dance",
+      "artist": "Zapp",
+      "intros": [],
+      "middle": "I Can Make You Dance (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Let It Whip",
+      "artist": "Dazz Band",
+      "intros": [],
+      "middle": "Let it Whip (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Loopzilla",
+      "artist": "George Clinton",
+      "intros": [],
+      "middle": "Loopzilla (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Love Is The Message",
+      "artist": "MFSB",
+      "intros": [],
+      "middle": "Love is the Message (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Love Rollercoaster",
+      "artist": "Ohio Players",
+      "intros": [],
+      "middle": "Love Rollercoaster (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Odyssey",
+      "artist": "Johnny Harris",
+      "intros": [],
+      "middle": "Odyssey (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Running Away",
+      "artist": "Roy Ayers",
+      "intros": [],
+      "middle": "Running Away (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Twilight",
+      "artist": "Maze",
+      "intros": [],
+      "middle": "Twilight (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "West Coast Poplock",
+      "artist": "Ronnie Hudson and The Street People",
+      "intros": [],
+      "middle": "West Coast Poplock (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "You Dropped a Bomb on Me",
+      "artist": "Gap Band",
+      "intros": [],
+      "middle": "You Dropped a Bomb on Me (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Yum Yum (Gimmie Some)",
+      "artist": "Fatback Band",
+      "intros": [],
+      "middle": "Yum Yum (Mid).ogg",
+      "outros": []
+    }
+  ],
+  "idents": [],
+  "callers": [],
+  "chatter": []
+}

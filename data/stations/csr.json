@@ -1,0 +1,234 @@
+{
+  "name": "CSR 103.9",
+  "genre": "New Jack Swing; Contemporary Soul; Boy Band; R&B",
+  "dj_name": "Phillip Michaels",
+  "audio_dir": "CSR",
+  "play_ads": true,
+  "logo_url": "https://gta-tiles.upl.im/radio/logo/SA/CSR1039-GTASA-Logo.png",
+  "type": "regular",
+  "songs": [
+    {
+      "name": "Don't Be Afraid",
+      "artist": "Aaron Hall",
+      "intros": [
+        "Don't Be Afraid (Intro DJ #1).ogg",
+        "Don't Be Afraid (Intro DJ #2).ogg",
+        "Don't Be Afraid (Intro).ogg"
+      ],
+      "middle": "Don't Be Afraid (Mid).ogg",
+      "outros": [
+        "Don't Be Afraid (Outro DJ #1).ogg",
+        "Don't Be Afraid (Outro DJ #2).ogg",
+        "Don't Be Afraid (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Don't Be Cruel",
+      "artist": "Bobby Brown",
+      "intros": [
+        "Don't Be Cruel (Intro DJ #1).ogg",
+        "Don't Be Cruel (Intro DJ #2).ogg",
+        "Don't Be Cruel (Intro).ogg"
+      ],
+      "middle": "Don't Be Cruel (Mid).ogg",
+      "outros": [
+        "Don't Be Cruel (Outro DJ #1).ogg",
+        "Don't Be Cruel (Outro DJ #2).ogg",
+        "Don't Be Cruel (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Groove Me",
+      "artist": "Guy",
+      "intros": [
+        "Groove Me (Intro DJ #1).ogg",
+        "Groove Me (Intro DJ #2).ogg",
+        "Groove Me (Intro).ogg"
+      ],
+      "middle": "Groove Me (Mid).ogg",
+      "outros": [
+        "Groove Me (Outro DJ #1).ogg",
+        "Groove Me (Outro DJ #2).ogg",
+        "Groove Me (Outro).ogg"
+      ]
+    },
+    {
+      "name": "I Got the Feeling",
+      "artist": "Todday",
+      "intros": [
+        "I Got the Feeling (Intro DJ #1).ogg",
+        "I Got the Feeling (Intro DJ #2).ogg",
+        "I Got the Feeling (Intro).ogg"
+      ],
+      "middle": "I Got the Feeling (Mid).ogg",
+      "outros": [
+        "I Got the Feeling (Outro DJ #1).ogg",
+        "I Got the Feeling (Outro DJ #2).ogg",
+        "I Got the Feeling (Outro).ogg"
+      ]
+    },
+    {
+      "name": "I'm So Into You",
+      "artist": "SWV",
+      "intros": [
+        "I'm So Into You (Intro DJ #1).ogg",
+        "I'm So Into You (Intro DJ #2).ogg",
+        "I'm So Into You (Intro).ogg"
+      ],
+      "middle": "I'm So Into You (Mid).ogg",
+      "outros": [
+        "I'm So Into You (Outro DJ #1).ogg",
+        "I'm So Into You (Outro DJ #2).ogg",
+        "I'm So Into You (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Keep On Movin'",
+      "artist": "Soul II Soul",
+      "intros": [
+        "Keep on Movin' (Intro DJ #1).ogg",
+        "Keep on Movin' (Intro DJ #2).ogg",
+        "Keep on Movin' (Intro).ogg"
+      ],
+      "middle": "Keep on Movin' (Mid).ogg",
+      "outros": [
+        "Keep on Movin' (Outro DJ #1).ogg",
+        "Keep on Movin' (Outro DJ #2).ogg",
+        "Keep on Movin' (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Motownphilly",
+      "artist": "Boyz II Men",
+      "intros": [
+        "Motownphilly (Intro DJ #1).ogg",
+        "Motownphilly (Intro DJ #2).ogg",
+        "Motownphilly (Intro).ogg"
+      ],
+      "middle": "Motownphilly (Mid).ogg",
+      "outros": [
+        "Motownphilly (Outro DJ #1).ogg",
+        "Motownphilly (Outro DJ #2).ogg",
+        "Motownphilly (Outro).ogg"
+      ]
+    },
+    {
+      "name": "My Lovin' (You're Never Gonna Get It)",
+      "artist": "En Vogue",
+      "intros": [
+        "My Lovin' (Never Gonna Get It) (Intro DJ #1).ogg",
+        "My Lovin' (Never Gonna Get It) (Intro DJ #2).ogg",
+        "My Lovin' (Never Gonna Get It) (Intro).ogg"
+      ],
+      "middle": "My Lovin' (Never Gonna Get It) (Mid).ogg",
+      "outros": [
+        "My Lovin' (Never Gonna Get It) (Outro DJ #1).ogg",
+        "My Lovin' (Never Gonna Get It) (Outro DJ #2).ogg",
+        "My Lovin' (Never Gonna Get It) (Outro).ogg"
+      ]
+    },
+    {
+      "name": "New Jack Swing",
+      "artist": "Wreckx-n-Effect",
+      "intros": [
+        "New Jack Swing (Intro DJ #1).ogg",
+        "New Jack Swing (Intro DJ #2).ogg",
+        "New Jack Swing (Intro).ogg"
+      ],
+      "middle": "New Jack Swing (Mid).ogg",
+      "outros": [
+        "New Jack Swing (Outro DJ #1).ogg",
+        "New Jack Swing (Outro DJ #2).ogg",
+        "New Jack Swing (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Poison",
+      "artist": "Bell Bid DeVoe",
+      "intros": [
+        "Poison (Intro DJ #1).ogg",
+        "Poison (Intro DJ #2).ogg",
+        "Poison (Intro).ogg"
+      ],
+      "middle": "Poison (Mid).ogg",
+      "outros": [
+        "Poison (Outro DJ #1).ogg",
+        "Poison (Outro DJ #2).ogg",
+        "Poison (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Rub You the Right Way",
+      "artist": "Johnny Gill",
+      "intros": [
+        "Rub You the Right Way (Intro DJ #1).ogg",
+        "Rub You the Right Way (Intro DJ #2).ogg",
+        "Rub You the Right Way (Intro).ogg"
+      ],
+      "middle": "Rub You the Right Way (Mid).ogg",
+      "outros": [
+        "Rub You the Right Way (Outro DJ #1).ogg",
+        "Rub You the Right Way (Outro DJ #2).ogg",
+        "Rub You the Right Way (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Sensitivity",
+      "artist": "Ralph Tresvant",
+      "intros": [
+        "Sensitivity (Intro DJ #1).ogg",
+        "Sensitivity (Intro DJ #2).ogg",
+        "Sensitivity (Intro).ogg"
+      ],
+      "middle": "Sensitivity (Mid).ogg",
+      "outros": [
+        "Sensitivity (Outro DJ #1).ogg",
+        "Sensitivity (Outro DJ #2).ogg",
+        "Sensitivity (Outro).ogg"
+      ]
+    },
+    {
+      "name": "So You Like What You See",
+      "artist": "Samuelle",
+      "intros": [
+        "So You Like What You See (Intro DJ #1).ogg",
+        "So You Like What You See (Intro DJ #2).ogg",
+        "So You Like What You See (Intro).ogg"
+      ],
+      "middle": "So You Like What You See (Mid).ogg",
+      "outros": [
+        "So You Like What You See (Outro DJ #1).ogg",
+        "So You Like What You See (Outro DJ #2).ogg",
+        "So You Like What You See (Outro).ogg"
+      ]
+    }
+  ],
+  "idents": [
+    "(ID) 'Old Jack We killed his old ass'.ogg",
+    "(ID) 'Sold my soul to the Devil'.ogg",
+    "(ID) 'Soul has to have integrity'.ogg",
+    "(ID) 'Swing on this, baby'.ogg",
+    "(ID) 'The home of New Jack Swing'.ogg",
+    "(ID) 'What do you call it...'.ogg",
+    "(ID) 'What happens when you mix...'.ogg",
+    "(ID) 'Why are you dressed like a preppie'.ogg"
+  ],
+  "callers": [
+    "(Caller) 'I'm in love with a girl'.ogg",
+    "(Caller) 'Male chauvanist pigs'.ogg"
+  ],
+  "chatter": [
+    "(DJ) 'Get off your fat ass and dance'.ogg",
+    "(DJ) 'Get ready to get down'.ogg",
+    "(DJ) 'Never trust a big butt and a smile'.ogg",
+    "(DJ) 'One is music, the other belongs in therapy'.ogg",
+    "(DJ) 'People that can really sing'.ogg",
+    "(DJ) 'Sing my name'.ogg",
+    "(DJ) 'Swing with your wife'.ogg",
+    "(DJ) 'The home of modern soul'.ogg",
+    "(DJ) 'With a good voice and some music...'.ogg",
+    "(DJ) Buying a cane.ogg",
+    "(DJ) Contemporary Soul Radio.ogg",
+    "(DJ) Momentum.ogg"
+  ]
+}

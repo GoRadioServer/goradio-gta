@@ -1,0 +1,264 @@
+{
+  "name": "Radio X",
+  "genre": "Alternative rock; Alternative metal; Alternative dance; Grunge; Heavy metal; Hard rock; Madchester; Funk rock",
+  "dj_name": "Sage",
+  "audio_dir": "Radio X",
+  "play_ads": true,
+  "logo_url": "https://gta-tiles.upl.im/radio/logo/SA/RadioX-GTASA-Logo.png",
+  "type": "regular",
+  "songs": [
+    {
+      "name": "Been Caught Stealing",
+      "artist": "Jane's Addiction",
+      "intros": [
+        "Been Caught Stealing (Intro DJ #1).ogg",
+        "Been Caught Stealing (Intro DJ #2).ogg",
+        "Been Caught Stealing (Intro).ogg"
+      ],
+      "middle": "Been Caught Stealing (Mid).ogg",
+      "outros": [
+        "Been Caught Stealing (Outro DJ #1).ogg",
+        "Been Caught Stealing (Outro DJ #2).ogg",
+        "Been Caught Stealing (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Cult Of Personality",
+      "artist": "Living Colour",
+      "intros": [
+        "Cult of Personality (Intro DJ #1).ogg",
+        "Cult of Personality (Intro DJ #2).ogg",
+        "Cult of Personality (Intro).ogg"
+      ],
+      "middle": "Cult of Personality (Mid).ogg",
+      "outros": [
+        "Cult of Personality (Outro DJ #1).ogg",
+        "Cult of Personality (Outro DJ #2).ogg",
+        "Cult of Personality (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Fools Gold",
+      "artist": "The Stone Roses",
+      "intros": [
+        "Fools Gold (Intro DJ #1).ogg",
+        "Fools Gold (Intro DJ #2).ogg",
+        "Fools Gold (Intro).ogg"
+      ],
+      "middle": "Fools Gold (Mid).ogg",
+      "outros": [
+        "Fools Gold (Outro DJ #1).ogg",
+        "Fools Gold (Outro DJ #2).ogg",
+        "Fools Gold (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Hellraiser",
+      "artist": "Ozzy Osbourne",
+      "intros": [
+        "Hellraiser (Intro DJ #1).ogg",
+        "Hellraiser (Intro DJ #2).ogg",
+        "Hellraiser (Intro).ogg"
+      ],
+      "middle": "Hellraiser (Mid).ogg",
+      "outros": [
+        "Hellraiser (Outro DJ #1).ogg",
+        "Hellraiser (Outro DJ #2).ogg",
+        "Hellraiser (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Killing In The Name",
+      "artist": "Rage Against The Machine",
+      "intros": [
+        "Killing in the Name (Intro DJ #1).ogg",
+        "Killing in the Name (Intro DJ #2).ogg",
+        "Killing in the Name (Intro).ogg"
+      ],
+      "middle": "Killing in the Name (Mid).ogg",
+      "outros": [
+        "Killing in the Name (Outro DJ #1).ogg",
+        "Killing in the Name (Outro DJ #2).ogg",
+        "Killing in the Name (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Midlife Crisis",
+      "artist": "Faith No More",
+      "intros": [
+        "Midlife Crisis (Intro DJ #1).ogg",
+        "Midlife Crisis (Intro DJ #2).ogg",
+        "Midlife Crisis (Intro).ogg"
+      ],
+      "middle": "Midlife Crisis (Mid).ogg",
+      "outros": [
+        "Midlife Crisis (Outro DJ #1).ogg",
+        "Midlife Crisis (Outro DJ #2).ogg",
+        "Midlife Crisis (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Mother",
+      "artist": "Danzig",
+      "intros": [
+        "Mother (Intro DJ #1).ogg",
+        "Mother (Intro DJ #2).ogg",
+        "Mother (Intro).ogg"
+      ],
+      "middle": "Mother (Mid).ogg",
+      "outros": [
+        "Mother (Outro DJ #1).ogg",
+        "Mother (Outro DJ #2).ogg",
+        "Mother (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Movin' On Up",
+      "artist": "Primal Scream",
+      "intros": [
+        "Movin' on Up (Intro DJ #1).ogg",
+        "Movin' on Up (Intro DJ #2).ogg",
+        "Movin' on Up (Intro).ogg"
+      ],
+      "middle": "Movin' on Up (Mid).ogg",
+      "outros": [
+        "Movin' on Up (Outro DJ #1).ogg",
+        "Movin' on Up (Outro DJ #2).ogg",
+        "Movin' on Up (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Personal Jesus",
+      "artist": "Depeche Mode",
+      "intros": [
+        "Personal Jesus (Intro DJ #1).ogg",
+        "Personal Jesus (Intro DJ #2).ogg",
+        "Personal Jesus (Intro).ogg"
+      ],
+      "middle": "Personal Jesus (Mid).ogg",
+      "outros": [
+        "Personal Jesus (Outro DJ #1).ogg",
+        "Personal Jesus (Outro DJ #2).ogg",
+        "Personal Jesus (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Plush",
+      "artist": "Stone Temple Pilots",
+      "intros": [
+        "Plush (Intro).ogg"
+      ],
+      "middle": "Plush (Mid).ogg",
+      "outros": [
+        "Plush (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Pretend We're Dead",
+      "artist": "L7",
+      "intros": [
+        "Pretend We're Dead (Intro DJ #1).ogg",
+        "Pretend We're Dead (Intro DJ #2).ogg",
+        "Pretend We're Dead (Intro).ogg"
+      ],
+      "middle": "Pretend We're Dead (Mid).ogg",
+      "outros": [
+        "Pretend We're Dead (Outro DJ #1).ogg",
+        "Pretend We're Dead (Outro DJ #2).ogg",
+        "Pretend We're Dead (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Rusty Cage",
+      "artist": "Soundgarden",
+      "intros": [
+        "Rusty Cage (Intro DJ #1).ogg",
+        "Rusty Cage (Intro DJ #2).ogg",
+        "Rusty Cage (Intro).ogg"
+      ],
+      "middle": "Rusty Cage (Mid).ogg",
+      "outros": [
+        "Rusty Cage (Outro DJ #1).ogg",
+        "Rusty Cage (Outro DJ #2).ogg",
+        "Rusty Cage (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Them Bones",
+      "artist": "Alice In Chains",
+      "intros": [
+        "Them Bones (Intro DJ #1).ogg",
+        "Them Bones (Intro DJ #2).ogg",
+        "Them Bones (Intro).ogg"
+      ],
+      "middle": "Them Bones (Mid).ogg",
+      "outros": [
+        "Them Bones (Outro DJ #1).ogg",
+        "Them Bones (Outro DJ #2).ogg",
+        "Them Bones (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Unsung",
+      "artist": "Helmet",
+      "intros": [
+        "Unsung (Intro DJ #1).ogg",
+        "Unsung (Intro DJ #2).ogg",
+        "Unsung (Intro).ogg"
+      ],
+      "middle": "Unsung (Mid).ogg",
+      "outros": [
+        "Unsung (Outro DJ #1).ogg",
+        "Unsung (Outro DJ #2).ogg",
+        "Unsung (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Welcome To The Jungle",
+      "artist": "Guns N' Roses",
+      "intros": [
+        "Welcome to the Jungle (Intro DJ #1).ogg",
+        "Welcome to the Jungle (Intro DJ #2).ogg",
+        "Welcome to the Jungle (Intro).ogg"
+      ],
+      "middle": "Welcome to the Jungle (Mid).ogg",
+      "outros": [
+        "Welcome to the Jungle (Outro DJ #1).ogg",
+        "Welcome to the Jungle (Outro DJ #2).ogg",
+        "Welcome to the Jungle (Outro).ogg"
+      ]
+    }
+  ],
+  "idents": [
+    "(ID) 'At the end of the alphabet'.ogg",
+    "(ID) 'Jump off a bridge and die'.ogg",
+    "(ID) 'Much better than real friends'.ogg",
+    "(ID) 'Self-important nihilists'.ogg",
+    "(ID) 'The birthplace of modern rock'.ogg",
+    "(ID) 'The id, the ego, ...'.ogg",
+    "(ID) 'They don't care about money'.ogg",
+    "(ID) 'This is our time'.ogg",
+    "(ID) 'Trust fund babies'.ogg",
+    "(ID) 'We're the only identity you've got'.ogg",
+    "(ID) 'Who cares about hunger'.ogg"
+  ],
+  "callers": [
+    "(Caller) 'What a stupid name'.ogg",
+    "(Caller) 'You really are full of yourself'.ogg"
+  ],
+  "chatter": [
+    "(DJ) 'Being a DJ is so hard'.ogg",
+    "(DJ) 'Bombarded with commercials'.ogg",
+    "(DJ) 'God I love crying'.ogg",
+    "(DJ) 'Guys in skirts'.ogg",
+    "(DJ) 'I don't want a real job'.ogg",
+    "(DJ) 'I have to work so hard'.ogg",
+    "(DJ) 'Like a big mix tape'.ogg",
+    "(DJ) 'No tracers yet'.ogg",
+    "(DJ) 'One must always go forward'.ogg",
+    "(DJ) 'People over thirty'.ogg",
+    "(DJ) 'Sage'.ogg",
+    "(DJ) 'That bitch at the record store'.ogg",
+    "(DJ) 'Yes, that is my real name'.ogg"
+  ]
+}

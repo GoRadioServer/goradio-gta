@@ -1,0 +1,126 @@
+{
+  "name": "K-JAH West (Music Only)",
+  "genre": "Reggae, Dub, and Dancehall",
+  "dj_name": "Marshall Peters and Johnny Lawton",
+  "audio_dir": "K-JAH-WEST",
+  "play_ads": false,
+  "logo_url": "https://gta-tiles.upl.im/radio/logo/SA/KJAHWest-GTASA-Logo.png",
+  "type": "music-only",
+  "songs": [
+    {
+      "name": "Armagideon Time",
+      "artist": "Willi Williams",
+      "intros": [],
+      "middle": "Armagideon Time (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Bam Bam",
+      "artist": "Pliers",
+      "intros": [],
+      "middle": "Bam Bam (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Batty Rider",
+      "artist": "Buju Banton",
+      "intros": [],
+      "middle": "Batty Rider (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Chase The Devil",
+      "artist": "Max Romeo & The Upsetters",
+      "intros": [],
+      "middle": "Chase the Devil (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Cokane In My Brain",
+      "artist": "Dillinger",
+      "intros": [],
+      "middle": "Cocaine in My Brain (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Don't Let It Go To Your Head",
+      "artist": "Black Harmony",
+      "intros": [],
+      "middle": "Don't Let it Go to Your Head (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Drum Pan Sound",
+      "artist": "Reggie Stepper",
+      "intros": [],
+      "middle": "Drum Pan Sound (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Funky Kingston",
+      "artist": "Toots & The Maytals",
+      "intros": [],
+      "middle": "Funky Kingston (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Great Train Robbery",
+      "artist": "Black Uhuru",
+      "intros": [],
+      "middle": "Great Train Robbery (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Here I Come",
+      "artist": "Barrington Levy",
+      "intros": [],
+      "middle": "Here I Come (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "King Tubby Meets Rockers Uptown",
+      "artist": "Augustus Pablo",
+      "intros": [],
+      "middle": "King Tubby Meets the Rockers Uptown (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Pressure Drop",
+      "artist": "Toots & The Maytals",
+      "intros": [],
+      "middle": "Pressure Drop (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Revolution",
+      "artist": "Dennis Brown",
+      "intros": [],
+      "middle": "Revolution (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Ring My Bell",
+      "artist": "Blood Sisters",
+      "intros": [],
+      "middle": "Ring My Bell (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Sidewalk Killer",
+      "artist": "I-Roy",
+      "intros": [],
+      "middle": "Sidewalk Killer (Mid).ogg",
+      "outros": []
+    },
+    {
+      "name": "Wicked Inna Bed",
+      "artist": "Shabba Ranks",
+      "intros": [],
+      "middle": "Wicked Inna Bed (Mid).ogg",
+      "outros": []
+    }
+  ],
+  "idents": [],
+  "callers": [],
+  "chatter": []
+}
