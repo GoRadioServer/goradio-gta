@@ -77,6 +77,14 @@ local function track(filename)
   return  "GTASA/" .. station.audio_dir .. "/" .. filename
 end
 
+-- Adverts have no separate title field in data/gtasa-stations.json --
+-- unlike songs, they're just filenames -- but those filenames already
+-- are the ad's proper name (e.g. "Sprunk.ogg", "Ammunation.ogg"), so
+-- stripping the extension gives a clean display title for free.
+local function advert_title(filename)
+  return (filename:gsub("%.%a+$", ""))
+end
+
 -- Mirrors gta-radio's original playback cycle: intro -> song -> outro, then
 -- either an advert or a station ident, then maybe a caller or DJ chatter.
 -- The "-music" variant (see music_only above) skips straight to just the
@@ -102,7 +110,8 @@ local function queue_song_cycle()
   local roll = math.random(0, 99)
 
   if roll <= 70 and station.play_ads and #ADVERTS > 0 then
-    radio.queue("GTASA/Adverts/" .. pick(ADVERTS))
+    local advert = pick(ADVERTS)
+    radio.queue({ location = "GTASA/Adverts/" .. advert, title = advert_title(advert), artist = "Advertisement" })
   elseif #station.idents > 0 then
     radio.queue(track(pick(station.idents)))
   end
