@@ -1,0 +1,22 @@
+{
+  "name": "Fever 105",
+  "game": "gtavc",
+  "genre": "Disco",
+  "dj_name": "Oliver Biscuit",
+  "audio_dir": "Fever 105",
+  "play_ads": false,
+  "logo_url": "",
+  "type": "regular",
+  "songs": [
+    {
+      "name": "Fever 105",
+      "artist": "Oliver Biscuit",
+      "intros": [],
+      "middle": "FEVER.mp3",
+      "outros": []
+    }
+  ],
+  "idents": [],
+  "callers": [],
+  "chatter": []
+}

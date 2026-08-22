@@ -1,4 +1,4 @@
--- station.lua: a GTA:SA-style radio station.
+-- station.lua: a GTA III-era radio station (San Andreas, III, Vice City).
 --
 -- Run it with (from this directory, so the data/ paths below resolve):
 --   radio station --config station.yaml --script station.lua <slug>
@@ -6,25 +6,38 @@
 -- <slug> picks which station to play; each run of this script serves
 -- exactly one station. Valid slugs are whatever data/stations/index.json
 -- lists -- currently the eleven GTA San Andreas stations plus their
--- "-music" (songs-only, see below) counterparts, e.g. radio-los-santos
--- and radio-los-santos-music.
+-- "-music" (songs-only, see below) counterparts (e.g. radio-los-santos
+-- and radio-los-santos-music), plus one station per GTA III and Vice
+-- City station (no "-music" counterparts for those -- see below).
 --
--- Playback follows the original station format: intro -> song -> outro,
--- then either an advert or a station ident, then maybe a caller or DJ
--- chatter -- reconstructed from https://github.com/tmfksoft/gta-radio's
--- stations/GTASA/*.js data, with audio paths matching this server's
--- data/audio/ layout. Each slug's own data (name/genre/songs/idents/
--- callers/chatter/...) lives in its own data/stations/<file>.json, found
--- via data/stations/index.json; data/adverts.json is shared across every
+-- Playback follows the original GTA:SA station format: intro -> song ->
+-- outro, then either an advert or a station ident, then maybe a caller
+-- or DJ chatter -- reconstructed from https://github.com/tmfksoft/gta-
+-- radio's stations/GTASA/*.js data, with audio paths matching this
+-- server's data/audio/ layout. GTA III and Vice City stations are
+-- modeled the same way but degenerately: each is really one single
+-- continuous audio file with the music/ads/DJ chatter already mixed
+-- together (that's how the original games shipped them), so each has
+-- exactly one "song" and empty intros/outros/idents/callers/chatter --
+-- there's no way to split "just the music" back out of one file, hence
+-- no "-music" variant for these.
+--
+-- Each slug's own data (name/game/genre/songs/idents/callers/chatter/...)
+-- lives in its own data/stations/<file>.json, found via
+-- data/stations/index.json; data/adverts.json is GTA:SA-specific (the
+-- only game with separate ad injection) but shared across every GTA:SA
 -- station. A "-music" slug is just its own index/data file like any
 -- other -- one with play_ads false and empty idents/callers/chatter, and
 -- every song's intros/outros stripped to empty too, so the playback
--- cycle below needs no special-casing for it at all: an empty list is
--- just never picked from.
+-- cycle below needs no special-casing for it (or for GTA III/Vice City)
+-- at all: an empty list is just never picked from.
 --
 -- Full Lua API docs: https://tmfksoft.github.io/goradio/lua-api/
 
 local json = require("json")
+
+-- Maps each station's "game" field to its data/audio/ subdirectory.
+local GAME_AUDIO_DIRS = { gtasa = "GTASA", gta3 = "GTA3", gtavc = "GTAVC" }
 
 local function load_json(path)
   local f, open_err = io.open(path, "r")
@@ -60,7 +73,7 @@ local LOW_QUEUE_THRESHOLD = 3
 local info = radio.register(station_key, station.name, station.genre, {
   low_queue_threshold = LOW_QUEUE_THRESHOLD,
   logo_url = station.logo_url,
-  metadata = { game = "gtasa", type = station.type },
+  metadata = { game = station.game, type = station.type },
 })
 print(string.format("registered '%s' -> %s (%s, DJ %s)", info.slug, info.stream_url, station.name, station.dj_name))
 
@@ -71,7 +84,7 @@ local function pick(arr)
 end
 
 local function track(filename)
-  return  "GTASA/" .. station.audio_dir .. "/" .. filename
+  return GAME_AUDIO_DIRS[station.game] .. "/" .. station.audio_dir .. "/" .. filename
 end
 
 -- Mirrors gta-radio's original playback cycle: intro -> song -> outro, then
@@ -96,7 +109,7 @@ local function queue_song_cycle()
 
   if roll <= 70 and station.play_ads and #ADVERTS > 0 then
     local advert = pick(ADVERTS)
-    radio.queue({ location = "GTASA/Adverts/" .. advert.file, title = advert.name, artist = "Advertisement" })
+    radio.queue({ location = GAME_AUDIO_DIRS.gtasa .. "/Adverts/" .. advert.file, title = advert.name, artist = "Advertisement" })
   elseif #station.idents > 0 then
     radio.queue(track(pick(station.idents)))
   end

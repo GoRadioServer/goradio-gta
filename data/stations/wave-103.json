@@ -1,0 +1,22 @@
+{
+  "name": "Wave 103",
+  "game": "gtavc",
+  "genre": "New Wave",
+  "dj_name": "Adam First",
+  "audio_dir": "Wave 103",
+  "play_ads": false,
+  "logo_url": "",
+  "type": "regular",
+  "songs": [
+    {
+      "name": "Wave 103",
+      "artist": "Adam First",
+      "intros": [],
+      "middle": "WAVE.mp3",
+      "outros": []
+    }
+  ],
+  "idents": [],
+  "callers": [],
+  "chatter": []
+}

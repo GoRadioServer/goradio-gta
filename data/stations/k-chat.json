@@ -1,0 +1,22 @@
+{
+  "name": "K-Chat",
+  "game": "gtavc",
+  "genre": "Talk Radio",
+  "dj_name": "Amy Sheckenhausen",
+  "audio_dir": "K-Chat",
+  "play_ads": false,
+  "logo_url": "",
+  "type": "regular",
+  "songs": [
+    {
+      "name": "K-Chat",
+      "artist": "Amy Sheckenhausen",
+      "intros": [],
+      "middle": "KCHAT.mp3",
+      "outros": []
+    }
+  ],
+  "idents": [],
+  "callers": [],
+  "chatter": []
+}

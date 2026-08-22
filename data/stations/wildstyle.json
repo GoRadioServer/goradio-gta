@@ -1,0 +1,22 @@
+{
+  "name": "Wildstyle",
+  "game": "gtavc",
+  "genre": "Old school hip-hop",
+  "dj_name": "Mr. Magic",
+  "audio_dir": "Wildstyle",
+  "play_ads": false,
+  "logo_url": "",
+  "type": "regular",
+  "songs": [
+    {
+      "name": "Wildstyle",
+      "artist": "Mr. Magic",
+      "intros": [],
+      "middle": "WILD.mp3",
+      "outros": []
+    }
+  ],
+  "idents": [],
+  "callers": [],
+  "chatter": []
+}

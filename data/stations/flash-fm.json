@@ -1,0 +1,22 @@
+{
+  "name": "Flash FM",
+  "game": "gtavc",
+  "genre": "Pop",
+  "dj_name": "Toni",
+  "audio_dir": "Flash FM",
+  "play_ads": false,
+  "logo_url": "",
+  "type": "regular",
+  "songs": [
+    {
+      "name": "Flash FM",
+      "artist": "Toni",
+      "intros": [],
+      "middle": "FLASH.mp3",
+      "outros": []
+    }
+  ],
+  "idents": [],
+  "callers": [],
+  "chatter": []
+}

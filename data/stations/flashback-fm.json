@@ -1,0 +1,22 @@
+{
+  "name": "Flashback FM",
+  "game": "gta3",
+  "genre": "Retro Pop",
+  "dj_name": "Toni",
+  "audio_dir": "Flashback FM",
+  "play_ads": false,
+  "logo_url": "",
+  "type": "regular",
+  "songs": [
+    {
+      "name": "Flashback FM",
+      "artist": "Toni",
+      "intros": [],
+      "middle": "FLASH.ogg",
+      "outros": []
+    }
+  ],
+  "idents": [],
+  "callers": [],
+  "chatter": []
+}

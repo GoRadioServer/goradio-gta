@@ -1,0 +1,22 @@
+{
+  "name": "Head Radio",
+  "game": "gta3",
+  "genre": "Pop",
+  "dj_name": "Michael Hunt",
+  "audio_dir": "Head Radio",
+  "play_ads": false,
+  "logo_url": "",
+  "type": "regular",
+  "songs": [
+    {
+      "name": "Head Radio",
+      "artist": "Michael Hunt",
+      "intros": [],
+      "middle": "HEAD.ogg",
+      "outros": []
+    }
+  ],
+  "idents": [],
+  "callers": [],
+  "chatter": []
+}

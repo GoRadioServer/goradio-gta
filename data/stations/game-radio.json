@@ -1,0 +1,22 @@
+{
+  "name": "Game Radio",
+  "game": "gta3",
+  "genre": "Disco",
+  "dj_name": "Stretch Armstrong & Lord Sear",
+  "audio_dir": "Game Radio",
+  "play_ads": false,
+  "logo_url": "",
+  "type": "regular",
+  "songs": [
+    {
+      "name": "Game Radio",
+      "artist": "Stretch Armstrong & Lord Sear",
+      "intros": [],
+      "middle": "GAME.ogg",
+      "outros": []
+    }
+  ],
+  "idents": [],
+  "callers": [],
+  "chatter": []
+}

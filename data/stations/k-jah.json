@@ -1,0 +1,22 @@
+{
+  "name": "K-JAH",
+  "game": "gta3",
+  "genre": "Reggae",
+  "dj_name": "Horace Walsh",
+  "audio_dir": "K-JAH",
+  "play_ads": false,
+  "logo_url": "",
+  "type": "regular",
+  "songs": [
+    {
+      "name": "K-JAH",
+      "artist": "Horace Walsh",
+      "intros": [],
+      "middle": "KJAH.ogg",
+      "outros": []
+    }
+  ],
+  "idents": [],
+  "callers": [],
+  "chatter": []
+}

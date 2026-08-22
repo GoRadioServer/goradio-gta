@@ -1,0 +1,22 @@
+{
+  "name": "Chatterbox FM",
+  "game": "gta3",
+  "genre": "Talk Radio",
+  "dj_name": "Lazlow Jones",
+  "audio_dir": "Chatterbox FM",
+  "play_ads": false,
+  "logo_url": "",
+  "type": "regular",
+  "songs": [
+    {
+      "name": "Chatterbox FM",
+      "artist": "Lazlow Jones",
+      "intros": [],
+      "middle": "CHAT.ogg",
+      "outros": []
+    }
+  ],
+  "idents": [],
+  "callers": [],
+  "chatter": []
+}

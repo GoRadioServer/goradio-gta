@@ -1,5 +1,6 @@
 {
   "name": "West Coast Talk Radio (Music Only)",
+  "game": "gtasa",
   "genre": "Talk Radio",
   "dj_name": "Various",
   "audio_dir": "WCTR",

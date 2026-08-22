@@ -1,0 +1,22 @@
+{
+  "name": "V-Rock",
+  "game": "gtavc",
+  "genre": "Album-Oriented Rock",
+  "dj_name": "Lazlow",
+  "audio_dir": "V-Rock",
+  "play_ads": false,
+  "logo_url": "",
+  "type": "regular",
+  "songs": [
+    {
+      "name": "V-Rock",
+      "artist": "Lazlow",
+      "intros": [],
+      "middle": "VROCK.mp3",
+      "outros": []
+    }
+  ],
+  "idents": [],
+  "callers": [],
+  "chatter": []
+}

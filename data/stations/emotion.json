@@ -1,0 +1,22 @@
+{
+  "name": "Emotion 98.3",
+  "game": "gtavc",
+  "genre": "Pop",
+  "dj_name": "Fernando Martinez",
+  "audio_dir": "Emotion 98.3",
+  "play_ads": false,
+  "logo_url": "",
+  "type": "regular",
+  "songs": [
+    {
+      "name": "Emotion 98.3",
+      "artist": "Fernando Martinez",
+      "intros": [],
+      "middle": "EMOTION.mp3",
+      "outros": []
+    }
+  ],
+  "idents": [],
+  "callers": [],
+  "chatter": []
+}

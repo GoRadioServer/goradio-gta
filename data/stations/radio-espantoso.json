@@ -1,0 +1,22 @@
+{
+  "name": "Radio Espantoso",
+  "game": "gtavc",
+  "genre": "Latin Music",
+  "dj_name": "Pepe",
+  "audio_dir": "Radio Espantoso",
+  "play_ads": false,
+  "logo_url": "",
+  "type": "regular",
+  "songs": [
+    {
+      "name": "Radio Espantoso",
+      "artist": "Pepe",
+      "intros": [],
+      "middle": "ESPANT.mp3",
+      "outros": []
+    }
+  ],
+  "idents": [],
+  "callers": [],
+  "chatter": []
+}

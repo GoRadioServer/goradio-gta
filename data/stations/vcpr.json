@@ -1,0 +1,22 @@
+{
+  "name": "Vice City Public Radio",
+  "game": "gtavc",
+  "genre": "Talk Radio",
+  "dj_name": "Various",
+  "audio_dir": "VCPR",
+  "play_ads": false,
+  "logo_url": "",
+  "type": "regular",
+  "songs": [
+    {
+      "name": "Vice City Public Radio",
+      "artist": "Various",
+      "intros": [],
+      "middle": "VCPR.mp3",
+      "outros": []
+    }
+  ],
+  "idents": [],
+  "callers": [],
+  "chatter": []
+}
