@@ -199,7 +199,7 @@
     },
     {
       "name": "White Wedding",
-      "artist": "Eddie Money",
+      "artist": "Billy Idol",
       "intros": [
         "White Wedding (Intro DJ #1).ogg",
         "White Wedding (Intro DJ #2).ogg",
@@ -240,6 +240,20 @@
         "Young Turks (Outro DJ #1).ogg",
         "Young Turks (Outro DJ #2).ogg",
         "Young Turks (Outro).ogg"
+      ]
+    },
+    {
+      "name": "Somebody Up There Likes Me",
+      "artist": "David Bowie",
+      "intros": [
+        "Somebody Up There Likes Me (Intro DJ #1).ogg",
+        "Somebody Up There Likes Me (Intro DJ #2).ogg",
+        "Somebody Up There Likes Me (Intro).ogg"
+      ],
+      "middle": "Somebody Up There Likes Me (Mid).ogg",
+      "outros": [
+        "Somebody Up There Likes Me (Outro DJ #1).ogg",
+        "Somebody Up There Likes Me (Outro).ogg"
       ]
     }
   ],

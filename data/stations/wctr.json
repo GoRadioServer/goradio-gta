@@ -283,12 +283,23 @@
       ]
     },
     {
-      "name": "WCTR News - Episode #11",
+      "name": "WCTR News - Episode #10",
       "artist": "Lianne Forget & Richard Burns",
       "intros": [
         "News - Episode #10 (Intro).ogg"
       ],
       "middle": "News - Episode #10 (Mid).ogg",
+      "outros": [
+        "News - Episode #10 (Outro).ogg"
+      ]
+    },
+    {
+      "name": "WCTR News - Episode #11",
+      "artist": "Lianne Forget & Richard Burns",
+      "intros": [
+        "News - Episode #11 (Intro).ogg"
+      ],
+      "middle": "News - Episode #11 (Mid).ogg",
       "outros": [
         "News - Episode #11 (Outro).ogg"
       ]

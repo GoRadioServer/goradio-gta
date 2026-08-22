@@ -286,7 +286,7 @@
       "name": "WCTR News - Episode #11",
       "artist": "Lianne Forget & Richard Burns",
       "intros": [
-        "News - Episode #10 (Intro).ogg"
+        "News - Episode #11 (Intro).ogg"
       ],
       "middle": "News - Episode #10 (Mid).ogg",
       "outros": [
@@ -335,6 +335,17 @@
       "middle": "The Wild Traveler - Episode #2 (Mid).ogg",
       "outros": [
         "The Wild Traveler - Episode #2 (Outro).ogg"
+      ]
+    },
+    {
+      "name": "WCTR News - Episode #10",
+      "artist": "Lianne Forget & Richard Burns",
+      "intros": [
+        "News - Episode #10 (Intro).ogg"
+      ],
+      "middle": "News - Episode #10 (Mid).ogg",
+      "outros": [
+        "News - Episode #10 (Outro).ogg"
       ]
     }
   ],
