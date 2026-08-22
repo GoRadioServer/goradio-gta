@@ -10,114 +10,178 @@
     {
       "name": "Alwayz Into Somethin'",
       "artist": "N.W.A.",
-      "intros": [],
+      "intros": [
+        "Alwayz Into Somethin' (Intro).ogg"
+      ],
       "middle": "Alwayz Into Somethin' (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Alwayz Into Somethin' (Outro).ogg"
+      ]
     },
     {
       "name": "Check Yo Self (The Message Remix)",
       "artist": "Ice Cube feat. Das EFX",
-      "intros": [],
+      "intros": [
+        "Check Yo Self (The Message Remix) (Intro).ogg"
+      ],
       "middle": "Check Yo Self (The Message Remix) (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Check Yo Self (The Message Remix) (Outro).ogg"
+      ]
     },
     {
       "name": "Deep Cover",
       "artist": "Dr. Dre feat. Snoop Dogg",
-      "intros": [],
+      "intros": [
+        "Deep Cover (Intro).ogg"
+      ],
       "middle": "Deep Cover (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Deep Cover (Outro).ogg"
+      ]
     },
     {
       "name": "Eazy-Er Said Than Dunn",
       "artist": "Eazy-E",
-      "intros": [],
+      "intros": [
+        "Eazy-er Said than Dunn (Intro).ogg"
+      ],
       "middle": "Eazy-er Said than Dunn (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Eazy-er Said than Dunn (Outro).ogg"
+      ]
     },
     {
       "name": "Express Yourself",
       "artist": "N.W.A.",
-      "intros": [],
+      "intros": [
+        "Express Yourself (Intro).ogg"
+      ],
       "middle": "Express Yourself (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Express Yourself (Outro).ogg"
+      ]
     },
     {
       "name": "Fuck Wit Dre Day",
       "artist": "Dr. Dre feat. Snoop Dogg",
-      "intros": [],
+      "intros": [
+        "Fuck wit Dre Day (Intro).ogg"
+      ],
       "middle": "Fuck wit Dre Day (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Fuck wit Dre Day (Outro).ogg"
+      ]
     },
     {
       "name": "Guerillas In Tha Mist",
       "artist": "Da Lench Mob feat. Ice Cube",
-      "intros": [],
+      "intros": [
+        "Guerillas in tha Mist (Intro).ogg"
+      ],
       "middle": "Guerillas in tha Mist (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Guerillas in tha Mist (Outro).ogg"
+      ]
     },
     {
       "name": "Hood Took Me Under",
       "artist": "Compton's Most Wanted",
-      "intros": [],
+      "intros": [
+        "Hood Took Me Under (Intro).ogg"
+      ],
       "middle": "Hood Took Me Under (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Hood Took Me Under (Outro).ogg"
+      ]
     },
     {
       "name": "How I Could Just Kill A Man",
       "artist": "Cypress Hill",
-      "intros": [],
+      "intros": [
+        "How I Could Just Kill a Man (Intro).ogg"
+      ],
       "middle": "How I Could Just Kill a Man (Mid).ogg",
-      "outros": []
+      "outros": [
+        "How I Could Just Kill a Man (Outro).ogg"
+      ]
     },
     {
       "name": "I Don't Give A Fuck",
       "artist": "2Pac feat. Pogo",
-      "intros": [],
+      "intros": [
+        "I Don't Give a Fuck (Intro).ogg"
+      ],
       "middle": "I Don't Give a Fuck (Mid).ogg",
-      "outros": []
+      "outros": [
+        "I Don't Give a Fuck (Outro).ogg"
+      ]
     },
     {
       "name": "It Was A Good Day",
       "artist": "Ice Cube",
-      "intros": [],
+      "intros": [
+        "It was a Good Day (Intro).ogg"
+      ],
       "middle": "It was a Good Day (Mid).ogg",
-      "outros": []
+      "outros": [
+        "It was a Good Day (Outro).ogg"
+      ]
     },
     {
       "name": "It's Funky Enough",
       "artist": "The D.O.C.",
-      "intros": [],
+      "intros": [
+        "It's Funky Enough (Intro).ogg"
+      ],
       "middle": "It's Funky Enough (Mid).ogg",
-      "outros": []
+      "outros": [
+        "It's Funky Enough (Outro).ogg"
+      ]
     },
     {
       "name": "La Raza",
       "artist": "Kid Frost",
-      "intros": [],
+      "intros": [
+        "La Raza (Intro).ogg"
+      ],
       "middle": "La Raza (Mid).ogg",
-      "outros": []
+      "outros": [
+        "La Raza (Outro).ogg"
+      ]
     },
     {
       "name": "Murder Rap",
       "artist": "Above The Law",
-      "intros": [],
+      "intros": [
+        "Murder Rap (Intro).ogg"
+      ],
       "middle": "Murder Rap (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Murder Rap (Outro).ogg"
+      ]
     },
     {
       "name": "Nuthin' But A 'G' Thang",
       "artist": "Dr. Dre feat. Snoop Dogg",
-      "intros": [],
+      "intros": [
+        "Nuthin' but a 'G' Thang (Intro).ogg"
+      ],
       "middle": "Nuthin' but a 'G' Thang (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Nuthin' but a 'G' Thang (Outro).ogg"
+      ]
     },
     {
       "name": "The Ghetto",
       "artist": "Too $hort",
-      "intros": [],
+      "intros": [
+        "The Ghetto (Intro).ogg"
+      ],
       "middle": "The Ghetto (Mid).ogg",
-      "outros": []
+      "outros": [
+        "The Ghetto (Outro).ogg"
+      ]
     }
   ],
   "idents": [],

@@ -10,93 +10,145 @@
     {
       "name": "Don't Be Afraid",
       "artist": "Aaron Hall",
-      "intros": [],
+      "intros": [
+        "Don't Be Afraid (Intro).ogg"
+      ],
       "middle": "Don't Be Afraid (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Don't Be Afraid (Outro).ogg"
+      ]
     },
     {
       "name": "Don't Be Cruel",
       "artist": "Bobby Brown",
-      "intros": [],
+      "intros": [
+        "Don't Be Cruel (Intro).ogg"
+      ],
       "middle": "Don't Be Cruel (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Don't Be Cruel (Outro).ogg"
+      ]
     },
     {
       "name": "Groove Me",
       "artist": "Guy",
-      "intros": [],
+      "intros": [
+        "Groove Me (Intro).ogg"
+      ],
       "middle": "Groove Me (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Groove Me (Outro).ogg"
+      ]
     },
     {
       "name": "I Got the Feeling",
       "artist": "Todday",
-      "intros": [],
+      "intros": [
+        "I Got the Feeling (Intro).ogg"
+      ],
       "middle": "I Got the Feeling (Mid).ogg",
-      "outros": []
+      "outros": [
+        "I Got the Feeling (Outro).ogg"
+      ]
     },
     {
       "name": "I'm So Into You",
       "artist": "SWV",
-      "intros": [],
+      "intros": [
+        "I'm So Into You (Intro).ogg"
+      ],
       "middle": "I'm So Into You (Mid).ogg",
-      "outros": []
+      "outros": [
+        "I'm So Into You (Outro).ogg"
+      ]
     },
     {
       "name": "Keep On Movin'",
       "artist": "Soul II Soul",
-      "intros": [],
+      "intros": [
+        "Keep on Movin' (Intro).ogg"
+      ],
       "middle": "Keep on Movin' (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Keep on Movin' (Outro).ogg"
+      ]
     },
     {
       "name": "Motownphilly",
       "artist": "Boyz II Men",
-      "intros": [],
+      "intros": [
+        "Motownphilly (Intro).ogg"
+      ],
       "middle": "Motownphilly (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Motownphilly (Outro).ogg"
+      ]
     },
     {
       "name": "My Lovin' (You're Never Gonna Get It)",
       "artist": "En Vogue",
-      "intros": [],
+      "intros": [
+        "My Lovin' (Never Gonna Get It) (Intro).ogg"
+      ],
       "middle": "My Lovin' (Never Gonna Get It) (Mid).ogg",
-      "outros": []
+      "outros": [
+        "My Lovin' (Never Gonna Get It) (Outro).ogg"
+      ]
     },
     {
       "name": "New Jack Swing",
       "artist": "Wreckx-n-Effect",
-      "intros": [],
+      "intros": [
+        "New Jack Swing (Intro).ogg"
+      ],
       "middle": "New Jack Swing (Mid).ogg",
-      "outros": []
+      "outros": [
+        "New Jack Swing (Outro).ogg"
+      ]
     },
     {
       "name": "Poison",
       "artist": "Bell Bid DeVoe",
-      "intros": [],
+      "intros": [
+        "Poison (Intro).ogg"
+      ],
       "middle": "Poison (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Poison (Outro).ogg"
+      ]
     },
     {
       "name": "Rub You the Right Way",
       "artist": "Johnny Gill",
-      "intros": [],
+      "intros": [
+        "Rub You the Right Way (Intro).ogg"
+      ],
       "middle": "Rub You the Right Way (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Rub You the Right Way (Outro).ogg"
+      ]
     },
     {
       "name": "Sensitivity",
       "artist": "Ralph Tresvant",
-      "intros": [],
+      "intros": [
+        "Sensitivity (Intro).ogg"
+      ],
       "middle": "Sensitivity (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Sensitivity (Outro).ogg"
+      ]
     },
     {
       "name": "So You Like What You See",
       "artist": "Samuelle",
-      "intros": [],
+      "intros": [
+        "So You Like What You See (Intro).ogg"
+      ],
       "middle": "So You Like What You See (Mid).ogg",
-      "outros": []
+      "outros": [
+        "So You Like What You See (Outro).ogg"
+      ]
     }
   ],
   "idents": [],

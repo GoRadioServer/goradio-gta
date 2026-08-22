@@ -10,121 +10,189 @@
     {
       "name": "Between The Sheets",
       "artist": "The Isley Brothers",
-      "intros": [],
+      "intros": [
+        "Between the Sheets (Intro).ogg"
+      ],
       "middle": "Between the Sheets (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Between the Sheets (Outro).ogg"
+      ]
     },
     {
       "name": "Candy",
       "artist": "Cameo",
-      "intros": [],
+      "intros": [
+        "Candy (Intro).ogg"
+      ],
       "middle": "Candy (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Candy (Outro).ogg"
+      ]
     },
     {
       "name": "Cold Blooded",
       "artist": "Rick James",
-      "intros": [],
+      "intros": [
+        "Cold Blooded (Intro).ogg"
+      ],
       "middle": "Cold Blooded (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Cold Blooded (Outro).ogg"
+      ]
     },
     {
       "name": "Fantastic Voyage",
       "artist": "Lakeside",
-      "intros": [],
+      "intros": [
+        "Fantastic Voyage (Intro).ogg"
+      ],
       "middle": "Fantastic Voyage (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Fantastic Voyage (Outro).ogg"
+      ]
     },
     {
       "name": "Funky Worm",
       "artist": "Ohio Players",
-      "intros": [],
+      "intros": [
+        "Funky Worm (Intro).ogg"
+      ],
       "middle": "Funky Worm (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Funky Worm (Outro).ogg"
+      ]
     },
     {
       "name": "Hollywood Swinging",
       "artist": "Kool & The Gang",
-      "intros": [],
+      "intros": [
+        "Hollywood Swingin' (Intro).ogg"
+      ],
       "middle": "Hollywood Swingin' (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Hollywood Swingin' (Outro).ogg"
+      ]
     },
     {
       "name": "I Can Make You Dance",
       "artist": "Zapp",
-      "intros": [],
+      "intros": [
+        "I Can Make You Dance (Intro).ogg"
+      ],
       "middle": "I Can Make You Dance (Mid).ogg",
-      "outros": []
+      "outros": [
+        "I Can Make You Dance (Outro).ogg"
+      ]
     },
     {
       "name": "Let It Whip",
       "artist": "Dazz Band",
-      "intros": [],
+      "intros": [
+        "Let it Whip (Intro).ogg"
+      ],
       "middle": "Let it Whip (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Let it Whip (Outro).ogg"
+      ]
     },
     {
       "name": "Loopzilla",
       "artist": "George Clinton",
-      "intros": [],
+      "intros": [
+        "Loopzilla (Intro).ogg"
+      ],
       "middle": "Loopzilla (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Loopzilla (Outro).ogg"
+      ]
     },
     {
       "name": "Love Is The Message",
       "artist": "MFSB",
-      "intros": [],
+      "intros": [
+        "Love is the Message (Intro).ogg"
+      ],
       "middle": "Love is the Message (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Love is the Message (Outro).ogg"
+      ]
     },
     {
       "name": "Love Rollercoaster",
       "artist": "Ohio Players",
-      "intros": [],
+      "intros": [
+        "Love Rollercoaster (Intro).ogg"
+      ],
       "middle": "Love Rollercoaster (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Love Rollercoaster (Outro).ogg"
+      ]
     },
     {
       "name": "Odyssey",
       "artist": "Johnny Harris",
-      "intros": [],
+      "intros": [
+        "Odyssey (Intro).ogg"
+      ],
       "middle": "Odyssey (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Odyssey (Outro).ogg"
+      ]
     },
     {
       "name": "Running Away",
       "artist": "Roy Ayers",
-      "intros": [],
+      "intros": [
+        "Running Away (Intro).ogg"
+      ],
       "middle": "Running Away (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Running Away (Outro).ogg"
+      ]
     },
     {
       "name": "Twilight",
       "artist": "Maze",
-      "intros": [],
+      "intros": [
+        "Twilight (Intro).ogg"
+      ],
       "middle": "Twilight (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Twilight (Outro).ogg"
+      ]
     },
     {
       "name": "West Coast Poplock",
       "artist": "Ronnie Hudson and The Street People",
-      "intros": [],
+      "intros": [
+        "West Coast Poplock (Intro).ogg"
+      ],
       "middle": "West Coast Poplock (Mid).ogg",
-      "outros": []
+      "outros": [
+        "West Coast Poplock (Outro).ogg"
+      ]
     },
     {
       "name": "You Dropped a Bomb on Me",
       "artist": "Gap Band",
-      "intros": [],
+      "intros": [
+        "You Dropped a Bomb on Me (Intro).ogg"
+      ],
       "middle": "You Dropped a Bomb on Me (Mid).ogg",
-      "outros": []
+      "outros": [
+        "You Dropped a Bomb on Me (Outro).ogg"
+      ]
     },
     {
       "name": "Yum Yum (Gimmie Some)",
       "artist": "Fatback Band",
-      "intros": [],
+      "intros": [
+        "Yum Yum (Intro).ogg"
+      ],
       "middle": "Yum Yum (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Yum Yum (Outro).ogg"
+      ]
     }
   ],
   "idents": [],

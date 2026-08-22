@@ -10,107 +10,167 @@
     {
       "name": "All My Exes Live in Texas",
       "artist": "George Strait",
-      "intros": [],
+      "intros": [
+        "All My Exes Live in Texas (Intro).ogg"
+      ],
       "middle": "All My Exes Live in Texas (Mid).ogg",
-      "outros": []
+      "outros": [
+        "All My Exes Live in Texas (Outro).ogg"
+      ]
     },
     {
       "name": "Always Wanting You",
       "artist": "Merle Haggard",
-      "intros": [],
+      "intros": [
+        "Always Wanting You (Intro).ogg"
+      ],
       "middle": "Always Wanting You (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Always Wanting You (Outro).ogg"
+      ]
     },
     {
       "name": "Amos Moses",
       "artist": "Jerry Reed",
-      "intros": [],
+      "intros": [
+        "Amos Moses (Intro).ogg"
+      ],
       "middle": "Amos Moses (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Amos Moses (Outro).ogg"
+      ]
     },
     {
       "name": "Bed of Roses",
       "artist": "The Statler Brothers",
-      "intros": [],
+      "intros": [
+        "Bed of Roses (Intro).ogg"
+      ],
       "middle": "Bed of Roses (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Bed of Roses (Outro).ogg"
+      ]
     },
     {
       "name": "Crazy",
       "artist": "Willie Nelson",
-      "intros": [],
+      "intros": [
+        "Crazy (Intro).ogg"
+      ],
       "middle": "Crazy (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Crazy (Outro).ogg"
+      ]
     },
     {
       "name": "Hey Good Lookin'",
       "artist": "Hank Williams",
-      "intros": [],
+      "intros": [
+        "Hey Good Lookin' (Intro).ogg"
+      ],
       "middle": "Hey Good Lookin' (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Hey Good Lookin' (Outro).ogg"
+      ]
     },
     {
       "name": "I Love a Rainy Night",
       "artist": "Eddie Rabbitt",
-      "intros": [],
+      "intros": [
+        "I Love a Rainy Night (Intro).ogg"
+      ],
       "middle": "I Love a Rainy Night (Mid).ogg",
-      "outros": []
+      "outros": [
+        "I Love a Rainy Night (Outro).ogg"
+      ]
     },
     {
       "name": "Louisiana Woman, Mississippi Man",
       "artist": "Conway Twitty & Loretta Lynn",
-      "intros": [],
+      "intros": [
+        "Louisiana woman, Mississippi man (Intro).ogg"
+      ],
       "middle": "Louisiana woman, Mississippi man (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Louisiana woman, Mississippi man (Outro).ogg"
+      ]
     },
     {
       "name": "Make The World Go Away",
       "artist": "Mickey Gilley",
-      "intros": [],
+      "intros": [
+        "Make the World Go Away (Intro).ogg"
+      ],
       "middle": "Make the World Go Away (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Make the World Go Away (Outro).ogg"
+      ]
     },
     {
       "name": "Mammas Don't Let Your Babies Grow Up to Be Cowboys",
       "artist": "Ed Bruce",
-      "intros": [],
+      "intros": [
+        "Mammas Don't Let Your Babies Grow Up to be Cowboys (Intro).ogg"
+      ],
       "middle": "Mammas Don't Let Your Babies Grow Up to be Cowboys (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Mammas Don't Let Your Babies Grow Up to be Cowboys (Outro).ogg"
+      ]
     },
     {
       "name": "New York City",
       "artist": "Statler Brothers",
-      "intros": [],
+      "intros": [
+        "New York City (Intro).ogg"
+      ],
       "middle": "New York City (Mid).ogg",
-      "outros": []
+      "outros": [
+        "New York City (Outro).ogg"
+      ]
     },
     {
       "name": "One Step Forward",
       "artist": "The Desert Rose Band",
-      "intros": [],
+      "intros": [
+        "One Step Forward (Intro).ogg"
+      ],
       "middle": "One Step Forward (Mid).ogg",
-      "outros": []
+      "outros": [
+        "One Step Forward (Outro).ogg"
+      ]
     },
     {
       "name": "Queen Of Hearts",
       "artist": "Juice Newton",
-      "intros": [],
+      "intros": [
+        "Queen of Hearts (Intro).ogg"
+      ],
       "middle": "Queen of Hearts (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Queen of Hearts (Outro).ogg"
+      ]
     },
     {
       "name": "The Letter That Johnny Walker Read",
       "artist": "Asleep At The Wheel",
-      "intros": [],
+      "intros": [
+        "The Letter that Johnny Walker Read (Intro).ogg"
+      ],
       "middle": "The Letter that Johnny Walker Read (Mid).ogg",
-      "outros": []
+      "outros": [
+        "The Letter that Johnny Walker Read (Outro).ogg"
+      ]
     },
     {
       "name": "Three Cigarettes In The Ashtray",
       "artist": "Patsy Cline",
-      "intros": [],
+      "intros": [
+        "Three Cigarettes in the Ashtray (Intro).ogg"
+      ],
       "middle": "Three Cigarettes in the Ashtray (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Three Cigarettes in the Ashtray (Outro).ogg"
+      ]
     }
   ],
   "idents": [],

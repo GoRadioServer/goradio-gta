@@ -10,86 +10,134 @@
     {
       "name": "B.Y.S.",
       "artist": "Gang Starr",
-      "intros": [],
+      "intros": [
+        "B.Y.S. (Intro).ogg"
+      ],
       "middle": "B.Y.S. (Mid).ogg",
-      "outros": []
+      "outros": [
+        "B.Y.S. (Outro).ogg"
+      ]
     },
     {
       "name": "Brand Nubian",
       "artist": "Brand Nubian",
-      "intros": [],
+      "intros": [
+        "Brand Nubian (Intro).ogg"
+      ],
       "middle": "Brand Nubian (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Brand Nubian (Outro).ogg"
+      ]
     },
     {
       "name": "Children's Story",
       "artist": "Slick Rick",
-      "intros": [],
+      "intros": [
+        "Children's Story (Intro).ogg"
+      ],
       "middle": "Children's Story (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Children's Story (Outro).ogg"
+      ]
     },
     {
       "name": "Critical Beatdown",
       "artist": "Ultramagnetic MCs",
-      "intros": [],
+      "intros": [
+        "Critical Beatdown (Intro).ogg"
+      ],
       "middle": "Critical Beatdown (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Critical Beatdown (Outro).ogg"
+      ]
     },
     {
       "name": "I Know You Go Soul",
       "artist": "Ric B. & Rakim",
-      "intros": [],
+      "intros": [
+        "I Know You Got Soul (Intro).ogg"
+      ],
       "middle": "I Know You Got Soul (Mid).ogg",
-      "outros": []
+      "outros": [
+        "I Know You Got Soul (Outro).ogg"
+      ]
     },
     {
       "name": "It Takes Two",
       "artist": "Rob Base and DJ E-Z Rock",
-      "intros": [],
+      "intros": [
+        "It Takes Two (Intro).ogg"
+      ],
       "middle": "It Takes Two (Mid).ogg",
-      "outros": []
+      "outros": [
+        "It Takes Two (Outro).ogg"
+      ]
     },
     {
       "name": "Me And The Biz",
       "artist": "Masta Ace",
-      "intros": [],
+      "intros": [
+        "Me & The Biz (Intro).ogg"
+      ],
       "middle": "Me & The Biz (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Me & The Biz (Outro).ogg"
+      ]
     },
     {
       "name": "Rebel Without a Pause",
       "artist": "Public Enemy",
-      "intros": [],
+      "intros": [
+        "Rebel Without a Pause (Intro).ogg"
+      ],
       "middle": "Rebel Without a Pause (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Rebel Without a Pause (Outro).ogg"
+      ]
     },
     {
       "name": "Road To The Riches",
       "artist": "Kool G Rap & DJ Polo",
-      "intros": [],
+      "intros": [
+        "Road to the Riches (Intro).ogg"
+      ],
       "middle": "Road to the Riches (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Road to the Riches (Outro).ogg"
+      ]
     },
     {
       "name": "The Godfather",
       "artist": "Spoonie Gee",
-      "intros": [],
+      "intros": [
+        "The Godfather (Intro).ogg"
+      ],
       "middle": "The Godfather (Mid).ogg",
-      "outros": []
+      "outros": [
+        "The Godfather (Outro).ogg"
+      ]
     },
     {
       "name": "Vapors",
       "artist": "Biz Markie",
-      "intros": [],
+      "intros": [
+        "The Vapors (Intro).ogg"
+      ],
       "middle": "The Vapors (Mid).ogg",
-      "outros": []
+      "outros": [
+        "The Vapors (Outro).ogg"
+      ]
     },
     {
       "name": "Warm It Up, Kane",
       "artist": "Big Daddy Kane",
-      "intros": [],
+      "intros": [
+        "Warm It Up Kane (Intro).ogg"
+      ],
       "middle": "Warm It Up Kane (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Warm It Up Kane (Outro).ogg"
+      ]
     }
   ],
   "idents": [],

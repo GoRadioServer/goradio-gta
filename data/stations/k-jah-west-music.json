@@ -10,114 +10,178 @@
     {
       "name": "Armagideon Time",
       "artist": "Willi Williams",
-      "intros": [],
+      "intros": [
+        "Armagideon Time (Intro).ogg"
+      ],
       "middle": "Armagideon Time (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Armagideon Time (Outro).ogg"
+      ]
     },
     {
       "name": "Bam Bam",
       "artist": "Pliers",
-      "intros": [],
+      "intros": [
+        "Bam Bam (Intro).ogg"
+      ],
       "middle": "Bam Bam (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Bam Bam (Outro).ogg"
+      ]
     },
     {
       "name": "Batty Rider",
       "artist": "Buju Banton",
-      "intros": [],
+      "intros": [
+        "Batty Rider (Intro).ogg"
+      ],
       "middle": "Batty Rider (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Batty Rider (Outro).ogg"
+      ]
     },
     {
       "name": "Chase The Devil",
       "artist": "Max Romeo & The Upsetters",
-      "intros": [],
+      "intros": [
+        "Chase the Devil (Intro).ogg"
+      ],
       "middle": "Chase the Devil (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Chase the Devil (Outro).ogg"
+      ]
     },
     {
       "name": "Cokane In My Brain",
       "artist": "Dillinger",
-      "intros": [],
+      "intros": [
+        "Cocaine in My Brain (Intro).ogg"
+      ],
       "middle": "Cocaine in My Brain (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Cocaine in My Brain (Outro).ogg"
+      ]
     },
     {
       "name": "Don't Let It Go To Your Head",
       "artist": "Black Harmony",
-      "intros": [],
+      "intros": [
+        "Don't Let it Go to Your Head (Intro).ogg"
+      ],
       "middle": "Don't Let it Go to Your Head (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Don't Let it Go to Your Head (Outro).ogg"
+      ]
     },
     {
       "name": "Drum Pan Sound",
       "artist": "Reggie Stepper",
-      "intros": [],
+      "intros": [
+        "Drum Pan Sound (Intro).ogg"
+      ],
       "middle": "Drum Pan Sound (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Drum Pan Sound (Outro).ogg"
+      ]
     },
     {
       "name": "Funky Kingston",
       "artist": "Toots & The Maytals",
-      "intros": [],
+      "intros": [
+        "Funky Kingston (Intro).ogg"
+      ],
       "middle": "Funky Kingston (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Funky Kingston (Outro).ogg"
+      ]
     },
     {
       "name": "Great Train Robbery",
       "artist": "Black Uhuru",
-      "intros": [],
+      "intros": [
+        "Great Train Robbery (Intro).ogg"
+      ],
       "middle": "Great Train Robbery (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Great Train Robbery (Outro).ogg"
+      ]
     },
     {
       "name": "Here I Come",
       "artist": "Barrington Levy",
-      "intros": [],
+      "intros": [
+        "Here I Come (Intro).ogg"
+      ],
       "middle": "Here I Come (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Here I Come (Outro).ogg"
+      ]
     },
     {
       "name": "King Tubby Meets Rockers Uptown",
       "artist": "Augustus Pablo",
-      "intros": [],
+      "intros": [
+        "King Tubby Meets the Rockers Uptown (Intro).ogg"
+      ],
       "middle": "King Tubby Meets the Rockers Uptown (Mid).ogg",
-      "outros": []
+      "outros": [
+        "King Tubby Meets the Rockers Uptown (Outro).ogg"
+      ]
     },
     {
       "name": "Pressure Drop",
       "artist": "Toots & The Maytals",
-      "intros": [],
+      "intros": [
+        "Pressure Drop (Intro).ogg"
+      ],
       "middle": "Pressure Drop (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Pressure Drop (Outro).ogg"
+      ]
     },
     {
       "name": "Revolution",
       "artist": "Dennis Brown",
-      "intros": [],
+      "intros": [
+        "Revolution (Intro).ogg"
+      ],
       "middle": "Revolution (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Revolution (Outro).ogg"
+      ]
     },
     {
       "name": "Ring My Bell",
       "artist": "Blood Sisters",
-      "intros": [],
+      "intros": [
+        "Ring My Bell (Intro).ogg"
+      ],
       "middle": "Ring My Bell (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Ring My Bell (Outro).ogg"
+      ]
     },
     {
       "name": "Sidewalk Killer",
       "artist": "I-Roy",
-      "intros": [],
+      "intros": [
+        "Sidewalk Killer (Intro).ogg"
+      ],
       "middle": "Sidewalk Killer (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Sidewalk Killer (Outro).ogg"
+      ]
     },
     {
       "name": "Wicked Inna Bed",
       "artist": "Shabba Ranks",
-      "intros": [],
+      "intros": [
+        "Wicked Inna Bed (Intro).ogg"
+      ],
       "middle": "Wicked Inna Bed (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Wicked Inna Bed (Outro).ogg"
+      ]
     }
   ],
   "idents": [],

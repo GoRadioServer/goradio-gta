@@ -10,107 +10,167 @@
     {
       "name": "Been Caught Stealing",
       "artist": "Jane's Addiction",
-      "intros": [],
+      "intros": [
+        "Been Caught Stealing (Intro).ogg"
+      ],
       "middle": "Been Caught Stealing (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Been Caught Stealing (Outro).ogg"
+      ]
     },
     {
       "name": "Cult Of Personality",
       "artist": "Living Colour",
-      "intros": [],
+      "intros": [
+        "Cult of Personality (Intro).ogg"
+      ],
       "middle": "Cult of Personality (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Cult of Personality (Outro).ogg"
+      ]
     },
     {
       "name": "Fools Gold",
       "artist": "The Stone Roses",
-      "intros": [],
+      "intros": [
+        "Fools Gold (Intro).ogg"
+      ],
       "middle": "Fools Gold (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Fools Gold (Outro).ogg"
+      ]
     },
     {
       "name": "Hellraiser",
       "artist": "Ozzy Osbourne",
-      "intros": [],
+      "intros": [
+        "Hellraiser (Intro).ogg"
+      ],
       "middle": "Hellraiser (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Hellraiser (Outro).ogg"
+      ]
     },
     {
       "name": "Killing In The Name",
       "artist": "Rage Against The Machine",
-      "intros": [],
+      "intros": [
+        "Killing in the Name (Intro).ogg"
+      ],
       "middle": "Killing in the Name (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Killing in the Name (Outro).ogg"
+      ]
     },
     {
       "name": "Midlife Crisis",
       "artist": "Faith No More",
-      "intros": [],
+      "intros": [
+        "Midlife Crisis (Intro).ogg"
+      ],
       "middle": "Midlife Crisis (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Midlife Crisis (Outro).ogg"
+      ]
     },
     {
       "name": "Mother",
       "artist": "Danzig",
-      "intros": [],
+      "intros": [
+        "Mother (Intro).ogg"
+      ],
       "middle": "Mother (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Mother (Outro).ogg"
+      ]
     },
     {
       "name": "Movin' On Up",
       "artist": "Primal Scream",
-      "intros": [],
+      "intros": [
+        "Movin' on Up (Intro).ogg"
+      ],
       "middle": "Movin' on Up (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Movin' on Up (Outro).ogg"
+      ]
     },
     {
       "name": "Personal Jesus",
       "artist": "Depeche Mode",
-      "intros": [],
+      "intros": [
+        "Personal Jesus (Intro).ogg"
+      ],
       "middle": "Personal Jesus (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Personal Jesus (Outro).ogg"
+      ]
     },
     {
       "name": "Plush",
       "artist": "Stone Temple Pilots",
-      "intros": [],
+      "intros": [
+        "Plush (Intro).ogg"
+      ],
       "middle": "Plush (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Plush (Outro).ogg"
+      ]
     },
     {
       "name": "Pretend We're Dead",
       "artist": "L7",
-      "intros": [],
+      "intros": [
+        "Pretend We're Dead (Intro).ogg"
+      ],
       "middle": "Pretend We're Dead (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Pretend We're Dead (Outro).ogg"
+      ]
     },
     {
       "name": "Rusty Cage",
       "artist": "Soundgarden",
-      "intros": [],
+      "intros": [
+        "Rusty Cage (Intro).ogg"
+      ],
       "middle": "Rusty Cage (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Rusty Cage (Outro).ogg"
+      ]
     },
     {
       "name": "Them Bones",
       "artist": "Alice In Chains",
-      "intros": [],
+      "intros": [
+        "Them Bones (Intro).ogg"
+      ],
       "middle": "Them Bones (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Them Bones (Outro).ogg"
+      ]
     },
     {
       "name": "Unsung",
       "artist": "Helmet",
-      "intros": [],
+      "intros": [
+        "Unsung (Intro).ogg"
+      ],
       "middle": "Unsung (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Unsung (Outro).ogg"
+      ]
     },
     {
       "name": "Welcome To The Jungle",
       "artist": "Guns N' Roses",
-      "intros": [],
+      "intros": [
+        "Welcome to the Jungle (Intro).ogg"
+      ],
       "middle": "Welcome to the Jungle (Mid).ogg",
-      "outros": []
+      "outros": [
+        "Welcome to the Jungle (Outro).ogg"
+      ]
     }
   ],
   "idents": [],
