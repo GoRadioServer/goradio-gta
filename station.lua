@@ -70,15 +70,29 @@ local station = load_json("data/stations/" .. station_file)
 
 -- A GTA III/Vice City station has exactly one "song" -- the whole
 -- station is one pre-mixed file, tens of minutes long. pick() on a
--- 1-element array always returns that same song, so a threshold of 3
--- would make refill_queue below re-queue *the same giant file* 3-4 times
--- over just to clear the threshold, every single time the queue drains.
--- With every station starting at once, that's dozens of simultaneous
--- transcode jobs for huge files -- exactly what overloaded the audio
--- server in production. A single song has no variety to buffer ahead
--- for anyway, so 0 is correct here: queue exactly one lookahead copy,
--- never a redundant pile of the same file.
-local LOW_QUEUE_THRESHOLD = #station.songs > 1 and 3 or 0
+-- 1-element array always returns that same song, so the regular
+-- threshold of 3 would make refill_queue below re-queue *the same giant
+-- file* 4 times over just to clear the threshold, every single time the
+-- queue drains. With every station starting at once, that's dozens of
+-- simultaneous transcode jobs for huge files -- exactly what overloaded
+-- the audio server in production. A single song has no variety to buffer
+-- ahead for anyway, so these stations want the shallowest queue that
+-- still works.
+--
+-- That shallowest value is 1, NOT 0. A threshold of 0 disables
+-- on_queue_low outright (see radio.register's options), so a station set
+-- to 0 queued its one lookahead copy at startup, played it out, and then
+-- sat in silence forever with nothing left to re-arm it -- the track
+-- never replayed once it stopped. And 1 really is the floor here,
+-- because refill_queue has to leave the queue *strictly above* the
+-- threshold for the edge trigger to re-arm: topping up to exactly one
+-- pending item would mean the queue never climbs back above 1, and
+-- on_queue_low would go just as dead as it does at 0. So these stations
+-- sit at two pending copies of the same file -- one more than they
+-- strictly need, but bounded and constant rather than a fresh pile on
+-- every drain, and the second copy is a transcode-cache hit rather than
+-- a new job.
+local LOW_QUEUE_THRESHOLD = #station.songs > 1 and 3 or 1
 
 local info = radio.register(station_key, station.name, station.genre, {
   low_queue_threshold = LOW_QUEUE_THRESHOLD,
