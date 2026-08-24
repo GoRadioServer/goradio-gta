@@ -32,7 +32,7 @@
 -- cycle below needs no special-casing for it (or for GTA III/Vice City)
 -- at all: an empty list is just never picked from.
 --
--- Full Lua API docs: https://tmfksoft.github.io/goradio/lua-api/
+-- Full Lua API docs: https://goradioserver.github.io/goradio/lua-api/
 
 local json = require("json")
 

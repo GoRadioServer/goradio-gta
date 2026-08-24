@@ -30,7 +30,7 @@ spec:
         runAsGroup: 1000
       containers:
         - name: goradio-gtasa-stations
-          image: ghcr.io/tmfksoft/goradio-gta:latest
+          image: ghcr.io/goradioserver/goradio-gta:latest
           env:
             - name: GORADIO_JWT
               valueFrom:

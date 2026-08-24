@@ -5,13 +5,13 @@
 # already-running `radio serve` instance (see station.yaml server.grpc_addr)
 # rather than running its own server. If you also need to run the audio
 # server itself, do that with the base image directly:
-# https://tmfksoft.github.io/goradio/deployment/docker/
+# https://goradioserver.github.io/goradio/deployment/docker/
 #
 # station.yaml is baked in as a default/fallback only -- deploy it with a
 # ConfigMap mounted over /app/station.yaml (and auth.jwt supplied via the
 # GORADIO_JWT env var from a Secret, which takes precedence over the file)
 # rather than relying on what's baked into the image.
-FROM ghcr.io/tmfksoft/goradio:v0.11.1
+FROM ghcr.io/goradioserver/goradio:v0.11.1
 
 USER root
 RUN apk add --no-cache nodejs npm \

@@ -29,7 +29,7 @@ script_dir=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
 
 # Pull the base image tag straight from the Dockerfile so this never
 # drifts out of sync as it gets bumped.
-image_tag=$(grep -oP '(?<=^FROM ghcr\.io/tmfksoft/goradio:)\S+' "$script_dir/../Dockerfile")
+image_tag=$(grep -oP '(?<=^FROM ghcr\.io/goradioserver/goradio:)\S+' "$script_dir/../Dockerfile")
 
 ttl="8760h"
 if [[ "${1:-}" == "-ttl" ]]; then
@@ -42,5 +42,5 @@ if [[ ${#slugs[@]} -eq 0 ]]; then
   slugs=("*")
 fi
 
-docker run --rm "ghcr.io/tmfksoft/goradio:${image_tag}" \
+docker run --rm "ghcr.io/goradioserver/goradio:${image_tag}" \
   tokengen -secret "$GORADIO_JWT_SECRET" -ttl "$ttl" "${slugs[@]}"
