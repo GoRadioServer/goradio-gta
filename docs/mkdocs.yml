@@ -1,0 +1,87 @@
+site_name: goradio-gta
+site_description: GTA III, Vice City, and San Andreas radio stations, reconstructed as real GoRadio station controllers.
+site_url: https://goradioserver.github.io/goradio-gta/
+repo_url: https://github.com/goradioserver/goradio-gta
+repo_name: goradioserver/goradio-gta
+edit_uri: edit/main/docs/content/
+
+docs_dir: content
+
+theme:
+  name: goradio
+
+  # No palette block here on purpose. The theme ships one locked dark
+  # scheme wired to GoRadio's brand through custom CSS variables rather
+  # than one of Material's named palettes, so overriding it would undo
+  # the reason for adopting the theme. Same for font, logo and favicon.
+  #
+  # features is restated in full rather than added to, because MkDocs
+  # *replaces* a theme's list instead of merging into it -- setting only
+  # content.action.edit here removes the navigation tabs. Keep this in
+  # sync with the theme's own mkdocs_theme.yml; content.action.edit is
+  # the single addition, pairing with edit_uri above.
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
+    - content.action.edit
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - tables
+  - toc:
+      permalink: true
+
+# With --strict these become build failures, which is the only way a
+# broken cross-reference gets noticed. anchors in particular is not
+# checked by default.
+validation:
+  omitted_files: warn
+  absolute_links: warn
+  unrecognized_links: warn
+  anchors: warn
+
+# Material for MkDocs ships its own search implementation under the
+# namespaced plugin id "material/search" (mkdocs-material 9.x). The
+# theme's header template only renders the search box/icon for that exact
+# id -- the plain "search" id MkDocs falls back to resolves to mkdocs'
+# own built-in plugin instead, which the header silently ignores.
+plugins:
+  - material/search
+
+nav:
+  - Home: index.md
+  - Getting Started:
+      - Prerequisites: getting-started/prerequisites.md
+      - Running with Docker: getting-started/running.md
+      - Configuration: getting-started/configuration.md
+  - Stations:
+      - Available Stations: stations/index.md
+      - Station Data Format: stations/data-format.md
+  - Deployment:
+      - Kubernetes: deployment/kubernetes.md
+  - Troubleshooting: troubleshooting.md
